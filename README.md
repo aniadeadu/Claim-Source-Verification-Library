@@ -28,30 +28,29 @@ This library is organised around that principle.
 ## Repository contents
 The repository is organised around the dataset, its schema, the supporting documentation and the Python processing tools.
 
-claimSourceVerificationLibrary/
-│
-├── data/
-│   ├── extracted_articles/
-│   │   ├── air_pollution_claims.json
-│   │   ├── air_pollution_extracted.json
-│   │   └── air_pollution_wikitext.txt
-│   │
-│   ├── claims.json
-|   |── claimVerificationResearch.xlsx
-│   ├── schema.json
-│   
-├── docs/
-│   |── annotation_guidelines.md
-|   └── data-model.md
-│
-├── scripts/
-│   |── excel_to_json.py
-|   |── extract_candidate_claims.py
-|   |── validate_schema.py
-|   |── wikipedia_extractor.py
-│
-├── requirements.txt
-└── README.md
+1. data/
+
+- claims.json – Structured collection of assessed claims.
+- claimVerificationResearch.xlsx – Research spreadsheet containing the claim-source assessments.
+- schema.json – JSON Schema defining the dataset structure.
+- extracted_articles/ – Contains extracted Wikipedia article content and candidate claims.
+
+2. docs/
+
+- annotation_guidelines.md – Guidelines for assessing claims against cited sources.
+- data_model.md – Description of the dataset structure and its fields.
+
+3. scripts/
+
+- excel_to_json.py – Converts the research spreadsheet into JSON.
+- extract_candidate_claims.py – Extracts candidate claims for assessment.
+- validate_schema.py – Validates the dataset against the JSON Schema.
+- wikipedia_extractor.py – Extracts content from Wikipedia articles.
+
+4. Root files
+
+- README.md – Project overview, setup instructions and documentation.
+- requirements.txt – Python dependencies required to run the scripts.
 
 ## Main components
 
@@ -119,6 +118,7 @@ A successful schema validation confirms that the JSON conforms to the defined st
 The current Python utility, scripts/excel_to_json.py, prepares structured JSON from the working Excel workbook.
 
 At present, the script:
+
 1. Reads the configured workbook and the Claims worksheet.
 2. Extracts the claim, article, source, evidence and assessment information.
 3. Normalises selected values, including verdict labels.
@@ -222,7 +222,7 @@ else:
     print("The dataset is valid against the schema.")
 ```
 
-### Annotation and quality assurance
+## Annotation and quality assurance
 The annotation guidelines describe how claims are examined and how evidence and verdicts should be recorded. They should be used alongside the schema:
 
 - The annotation guidelines explain the research decisions and annotation procedure.
@@ -240,7 +240,7 @@ Quality assurance should consider both technical validity and research quality. 
 
 Schema validation is one part of quality assurance, not a replacement for human review.
 
-### Reuse and future development
+## Reuse and future development
 The project is intended to grow beyond a one-off conversion workflow. Potential next steps include:
 
 - Reusable Python interface: refactor the current script into functions that can be imported and called by other Python projects.
@@ -252,7 +252,7 @@ The project is intended to grow beyond a one-off conversion workflow. Potential 
 - Contribution documentation: explain how new records, sources and assessments should be added without breaking consistency.
 These are development directions, not claims that all of these features are already implemented.
 
-### Contributing
+## Contributing
 Contributions that improve the dataset, documentation, schema or Python tooling are welcome, subject to the project's review process.
 
 Before contributing:
@@ -266,17 +266,17 @@ Before contributing:
 
 For code changes, include or update tests where appropriate and describe how the change was checked.
 
-### Scope and limitations
+## Scope and limitations
 The current dataset is a pilot research resource, not an exhaustive collection of all Wikipedia claims or cited sources. Its assessments reflect the evidence examined and the annotation decisions recorded for each case.
 
 A valid JSON record is not automatically a correct research judgement. The quality and usefulness of the benchmark depend on transparent evidence, consistent annotation, careful review and clear documentation of limitations.
 
-### Licence and citation
+## Licence and citation
 **Licence:** Add the project's chosen data and software licences here before public release. Do not assume that the dataset, source material and code all share the same licence.
 
 **Citation:** Add the preferred citation for the project or dataset when the project citation details have been established.
 
-### Acknowledgements
+## Acknowledgements
 
 This project is being developed in the context of the Outreach Round 33 microtask - claim verification
  #7037 work. The aim is to contribute a transparent and reusable resource for studying how well cited sources support claims and for supporting future evaluation of claim-verification approaches.
