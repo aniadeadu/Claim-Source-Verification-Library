@@ -1,0 +1,185 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Claim-Source Verification Dataset",
+  "description": "Structured claim records. Evidence quotations are stored individually. If one evidence location applies to multiple quotations, the converter repeats that location in each corresponding evidence object.",
+  "type": "object",
+  "properties": {
+    "claims": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "properties": {
+          "claimID": {
+            "type": "string"
+          },
+          "claim": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string",
+            "enum": [
+              "AI flagged",
+              "Not AI flagged",
+              ""
+            ]
+          },
+          "article": {
+            "type": "object",
+            "properties": {
+              "title": {
+                "type": "string"
+              },
+              "url": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "title",
+              "url"
+            ],
+            "additionalProperties": false
+          },
+          "sourceEvaluation": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "properties": {
+                "sourceTitle": {
+                  "type": "string"
+                },
+                "sourceURL": {
+                  "type": "string"
+                },
+                "sourceCitation": {
+                  "type": "string"
+                },
+                "accessStatus": {
+                  "type": "string"
+                },
+                "accessNotes": {
+                  "type": "string"
+                },
+                "accessedDate": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "evidence": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/$defs/evidence"
+                  }
+                }
+              },
+              "required": [
+                "sourceTitle",
+                "sourceURL",
+                "sourceCitation",
+                "accessStatus",
+                "accessNotes",
+                "accessedDate"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "subclaims": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "subclaimID": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                },
+                "verdict": {
+                  "$ref": "#/$defs/verdict"
+                },
+                "evidence": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/$defs/evidence"
+                  }
+                }
+              },
+              "required": [
+                "subclaimID",
+                "text",
+                "verdict",
+                "evidence"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "overallVerdict": {
+            "$ref": "#/$defs/verdict"
+          },
+          "evidenceGap": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "reasoning": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "claimID",
+          "claim",
+          "category",
+          "article",
+          "sourceEvaluation",
+          "subclaims",
+          "overallVerdict",
+          "evidenceGap",
+          "reasoning"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "$defs": {
+    "verdict": {
+      "type": "string",
+      "enum": [
+        "Supported",
+        "Partially supported",
+        "Unsupported",
+        "Contradicted",
+        "Unclear",
+        ""
+      ]
+    },
+    "evidence": {
+      "type": "object",
+      "description": "One quotation and its location in the cited source. If multiple quotations share one source location, the shared location is repeated for each quotation.",
+      "properties": {
+        "quote": {
+          "type": "string"
+        },
+        "location": {
+          "type": "string",
+          "description": "Location of the quotation in the cited source. If a single location applies to multiple quotations entered together, the converter repeats that same location in every corresponding evidence object."
+        },
+        "verdict": {
+          "$ref": "#/$defs/verdict"
+        }
+      },
+      "required": [
+        "quote",
+        "location",
+        "verdict"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "claims"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,3749 @@
+[
+    {
+        "claimID": 1,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Industry and construction"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Burning fuel to generate electricity causes air pollution; lignite and coal produce the most air pollution, followed by oil, and then by fossil gas and biomass.",
+        "references": [
+            {
+                "referenceID": "ref_1",
+                "title": "Electricity generation and health",
+                "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(07)61253-7/abstract",
+                "doi": "10.1016/S0140-6736(07)61253-7"
+            },
+            {
+                "referenceID": "OWID_SafestEnergy_2021",
+                "title": "What are the safest and cleanest sources of energy?",
+                "url": "https://ourworldindata.org/safest-sources-of-energy"
+            }
+        ]
+    },
+    {
+        "claimID": 2,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Industry and construction"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Methane leaks are common in oil and gas production, and oil refineries emit a wide range of pollutants.",
+        "references": [
+            {
+                "referenceID": "ref_2",
+                "title": "Climate change: Satellites map huge methane plumes from oil and gas",
+                "url": "https://www.bbc.com/news/science-environment-60203683",
+                "work": "BBC News"
+            },
+            {
+                "referenceID": "ref_3",
+                "title": "Global assessment of oil and gas methane ultra-emitters",
+                "url": "https://www.science.org/doi/10.1126/science.abj4351",
+                "doi": "10.1126/science.abj4351"
+            }
+        ]
+    },
+    {
+        "claimID": 3,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Industry and construction"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Many polluting industries have been pushed out of richer nations, and China too has started to push its most polluting industries out of the country.",
+        "references": [
+            {
+                "referenceID": "ref_4",
+                "title": "Introduction: Air Pollution in China",
+                "url": "https://www.cambridge.org/core/journals/china-quarterly/article/introduction-air-pollution-in-china/8D36F205FEC68513BC45E2DEC0F2AC26",
+                "doi": "10.1017/S0305741017001369"
+            }
+        ]
+    },
+    {
+        "claimID": 4,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Industry and construction"
+        ],
+        "paragraphNumber": 2,
+        "claim": "The direct particles from construction and demolition are relatively coarse.",
+        "references": [
+            {
+                "referenceID": "DEFRA_PM",
+                "title": "Emissions of air pollutants in the UK – Particulate matter (PM and PM)",
+                "url": "https://www.gov.uk/government/statistics/emissions-of-air-pollutants/emissions-of-air-pollutants-in-the-uk-particulate-matter-pm10-and-pm25#major-emission-sources-for-pm10-and-pm25-in-the-uk"
+            },
+            {
+                "referenceID": "ref_5",
+                "title": "Ambient exposure to coarse and fine particle emissions from building demolition",
+                "doi": "10.1016/j.atmosenv.2016.04.029",
+                "url": "https://doi.org/10.1016/j.atmosenv.2016.04.029"
+            }
+        ]
+    },
+    {
+        "claimID": 5,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Industry and construction"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Though banned in many countries, asbestos persists in older buildings, where it poses a risk of lung disease when disturbed.",
+        "references": [
+            {
+                "referenceID": "ref_6",
+                "title": "Asbestos-associated pulmonary disease",
+                "doi": "10.1097/MCP.0000000000000939",
+                "url": "https://doi.org/10.1097/MCP.0000000000000939"
+            }
+        ]
+    },
+    {
+        "claimID": 6,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Industry and construction"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Building materials including carpeting and plywood emit formaldehyde, a gas which can cause difficulty breathing and nausea.",
+        "references": [
+            {
+                "referenceID": ":6",
+                "title": "Taking an Exposure History: What Are Possible Sources of Indoor Air Pollution",
+                "url": "https://www.atsdr.cdc.gov/csem/exposure-history/Indoor-Air-Pollution-Sources.html"
+            }
+        ]
+    },
+    {
+        "claimID": 7,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Transportation"
+        ],
+        "paragraphNumber": 1,
+        "claim": "For instance, they may be responsible for a third to half of all nitrogen dioxide emissions, and are a major cause of climate change.",
+        "references": [
+            {
+                "referenceID": "pmid31143547",
+                "title": "Vehicle emission and atmospheric pollution in China: problems, progress, and prospects.",
+                "doi": "10.7717/peerj.6932",
+                "url": "https://doi.org/10.7717/peerj.6932"
+            },
+            {
+                "referenceID": "pmid26142107",
+                "title": "Impact of air pollutants from surface transport sources on human health: A modeling and epidemiological approach.",
+                "doi": "10.1016/j.envint.2015.06.010",
+                "url": "https://doi.org/10.1016/j.envint.2015.06.010"
+            },
+            {
+                "referenceID": "ref_7",
+                "title": "Cars, planes, trains: where do CO₂ emissions from transport come from?",
+                "url": "https://ourworldindata.org/co2-emissions-from-transport"
+            }
+        ]
+    },
+    {
+        "claimID": 8,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Transportation"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Diesel trains, ships, and planes also cause air pollution.",
+        "references": [
+            {
+                "referenceID": "ref_8",
+                "title": "Overview of Air Pollution from Transportation",
+                "url": "https://www.epa.gov/transportation-air-pollution-and-climate-change/overview-air-pollution-transportation"
+            }
+        ]
+    },
+    {
+        "claimID": 9,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Agriculture and waste"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Agricultural emissions, both from crops and from animal agriculture, contribute substantially to air pollution.",
+        "references": [
+            {
+                "referenceID": "ref_9",
+                "title": "Air pollution, food production and food security: A review from the perspective of food system",
+                "doi": "10.1016/S2095-3119(17)61814-8",
+                "url": "https://doi.org/10.1016/S2095-3119(17)61814-8"
+            },
+            {
+                "referenceID": "10.1038/nature15371",
+                "title": "The contribution of outdoor air pollution sources to premature mortality on a global scale",
+                "doi": "10.1038/nature15371",
+                "url": "https://doi.org/10.1038/nature15371"
+            }
+        ]
+    },
+    {
+        "claimID": 10,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Agriculture and waste"
+        ],
+        "paragraphNumber": 1,
+        "claim": "For instance, methane is emitted by the digestion of food by cattle, causing ground-level ozone.",
+        "references": [
+            {
+                "referenceID": "ref_10",
+                "title": "Methane, climate change and air quality in Europe: exploring the connections",
+                "url": "https://www.eea.europa.eu/en/analysis/publications/methane-climate-change-and-air-quality-in-europe-exploring-the-connections"
+            }
+        ]
+    },
+    {
+        "claimID": 11,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Agriculture and waste"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Agriculture is also a major source of ammonia, which can form fine particulate matter.",
+        "references": [
+            {
+                "referenceID": "ref_11",
+                "title": "Estimating health and economic benefits of reductions in air pollution from agriculture",
+                "url": "https://www.sciencedirect.com/science/article/pii/S0048969717334836",
+                "doi": "10.1016/j.scitotenv.2017.12.064"
+            }
+        ]
+    },
+    {
+        "claimID": 12,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Agriculture and waste"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Practices like slash-and-burn in forests like the Amazon cause large air pollution alongside deforestation.",
+        "references": [
+            {
+                "referenceID": "ref_12",
+                "title": "NASA's AIRS Maps Carbon Monoxide from Brazil Fires",
+                "url": "https://www.jpl.nasa.gov/images/pia23356-nasas-airs-maps-carbon-monoxide-from-brazil-fires",
+                "website": "NASA Jet Propulsion Laboratory (JPL)"
+            }
+        ]
+    },
+    {
+        "claimID": 13,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Agriculture and waste"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Organic waste in landfills itself also produces methane as it decomposes.",
+        "references": [
+            {
+                "referenceID": "ref_13",
+                "title": "Basic Information about Landfill Gas",
+                "url": "https://www.epa.gov/lmop/basic-information-about-landfill-gas",
+                "website": "US Environmental Protection Agency"
+            }
+        ]
+    },
+    {
+        "claimID": 14,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Household sources"
+        ],
+        "paragraphNumber": 1,
+        "claim": "thumb|Smoking fish over an open fire in Ghana, 2018.|alt=a round metal open fire with small fish\nAs of 2023, more than 2.3 billion people in developing countries rely on burning polluting fuels such as firewood, agricultural waste, dry dung, coal, or charcoal for cooking, which causes harmful household air pollution.",
+        "references": [
+            {
+                "referenceID": "ref_14",
+                "title": "Executive summary – A Vision for Clean Cooking Access for All – Analysis",
+                "url": "https://www.iea.org/reports/a-vision-for-clean-cooking-access-for-all/executive-summary",
+                "website": "IEA"
+            }
+        ]
+    },
+    {
+        "claimID": 15,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Household sources"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Gas stoves for cooking contribute to indoor air pollution by emitting , benzene, and carbon monoxide.",
+        "references": [
+            {
+                "referenceID": "ref_15",
+                "title": "Pollutants from gas stoves kill 40,000 Europeans each year, report finds",
+                "url": "https://www.theguardian.com/environment/2024/oct/28/pollutants-from-gas-stoves-kill-40000-europeans-each-year-report-finds",
+                "work": "The Guardian"
+            }
+        ]
+    },
+    {
+        "claimID": 16,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Household sources"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Toasters can produce particulate pollution.",
+        "references": [
+            {
+                "referenceID": "ref_16",
+                "title": "The Hidden Air Pollution in Our Homes",
+                "url": "https://www.newyorker.com/magazine/2019/04/08/the-hidden-air-pollution-in-our-homes"
+            }
+        ]
+    },
+    {
+        "claimID": 17,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Household sources"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Similarly, heating systems such as furnaces and other types of fuel-burning heating devices release pollutants into the air.",
+        "references": [
+            {
+                "referenceID": "ref_17",
+                "title": "Combustion Pollutants in Your Home - Guidelines",
+                "url": "https://ww2.arb.ca.gov/resources/documents/combustion-pollutants-your-home-guidelines"
+            }
+        ]
+    },
+    {
+        "claimID": 18,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Household sources"
+        ],
+        "paragraphNumber": 2,
+        "claim": "In some developed countries, including the UK and Sydney, Australia, wood stoves are the major source of particulate pollution in urban areas.",
+        "references": [
+            {
+                "referenceID": "ref_18",
+                "title": "Emissions of air pollutants in the UK – Particulate matter (PM10 and PM2.5)",
+                "url": "https://www.gov.uk/government/statistics/emissions-of-air-pollutants/emissions-of-air-pollutants-in-the-uk-particulate-matter-pm10-and-pm25",
+                "website": "GOV.UK"
+            },
+            {
+                "referenceID": "auto",
+                "title": "Wood burning heaters and your health",
+                "url": "https://www.health.nsw.gov.au/environment/factsheets/Pages/wood-smoke.aspx",
+                "website": "New South Wales Health"
+            }
+        ]
+    },
+    {
+        "claimID": 19,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Household sources"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Wood stoves can also emit carbon monoxide and .",
+        "references": [
+            {
+                "referenceID": ":6",
+                "title": "Taking an Exposure History: What Are Possible Sources of Indoor Air Pollution",
+                "url": "https://www.atsdr.cdc.gov/csem/exposure-history/Indoor-Air-Pollution-Sources.html"
+            }
+        ]
+    },
+    {
+        "claimID": 20,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Household sources"
+        ],
+        "paragraphNumber": 3,
+        "claim": "Some of this material can trigger allergies, such as allergic rhinitis.",
+        "references": [
+            {
+                "referenceID": ":6",
+                "title": "Taking an Exposure History: What Are Possible Sources of Indoor Air Pollution",
+                "url": "https://www.atsdr.cdc.gov/csem/exposure-history/Indoor-Air-Pollution-Sources.html"
+            }
+        ]
+    },
+    {
+        "claimID": 21,
+        "sectionPath": [
+            "Sources",
+            "Human sources",
+            "Household sources"
+        ],
+        "paragraphNumber": 3,
+        "claim": "Fumes from pesticides, paints, cleaning products and personal care products can be substantial, and make up an increasing share of outdoor and indoor air pollution as transportation is getting cleaner.",
+        "references": [
+            {
+                "referenceID": "ref_19",
+                "title": "Volatile chemical products emerging as largest petrochemical source of urban organic emissions",
+                "url": "https://www.science.org/doi/10.1126/science.aaq0524",
+                "doi": "10.1126/science.aaq0524"
+            }
+        ]
+    },
+    {
+        "claimID": 22,
+        "sectionPath": [
+            "Sources",
+            "Natural sources"
+        ],
+        "paragraphNumber": 1,
+        "claim": "For instance, dust from the Gobi Desert in China and Mongolia can reach Hawaii, and dust from the Sahara reaches the Amazon rainforest in South America.",
+        "references": [
+            {
+                "referenceID": "ref_20",
+                "title": "What is desert dust and how does it change atmosphere and the air we breathe?",
+                "url": "https://atmosphere.copernicus.eu/what-saharan-dust-and-how-does-it-change-atmosphere-and-air-we-breathe",
+                "website": "Copernicus Atmosphere"
+            }
+        ]
+    },
+    {
+        "claimID": 23,
+        "sectionPath": [
+            "Sources",
+            "Natural sources"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Volcanic eruptions can be a large source of sulfur dioxide and also produce particle pollution.",
+        "references": [
+            {
+                "referenceID": "ref_21",
+                "title": "Air Pollution: Concepts, Theory, and Applications",
+                "doi": "10.1017/9781108674614.002",
+                "url": "https://doi.org/10.1017/9781108674614.002"
+            }
+        ]
+    },
+    {
+        "claimID": 24,
+        "sectionPath": [
+            "Sources",
+            "Natural sources"
+        ],
+        "paragraphNumber": 3,
+        "claim": "This is especially true in warmer climates and during the growth season.",
+        "references": [
+            {
+                "referenceID": "ref_22",
+                "title": "Biogenic volatile organic compounds emissions, atmospheric chemistry, and environmental implications: a review",
+                "url": "https://link.springer.com/10.1007/s10311-024-01785-5",
+                "doi": "10.1007/s10311-024-01785-5"
+            }
+        ]
+    },
+    {
+        "claimID": 25,
+        "sectionPath": [
+            "Sources",
+            "Natural sources"
+        ],
+        "paragraphNumber": 3,
+        "claim": "These gases react with human pollution sources to produce a seasonal haze.",
+        "references": [
+            {
+                "referenceID": "ref_23",
+                "title": "Biogenic carbon and anthropogenic pollutants combine to form a cooling haze over the southeastern United States",
+                "doi": "10.1073/pnas.0904128106",
+                "url": "https://doi.org/10.1073/pnas.0904128106"
+            }
+        ]
+    },
+    {
+        "claimID": 26,
+        "sectionPath": [
+            "Sources",
+            "Natural sources"
+        ],
+        "paragraphNumber": 3,
+        "claim": "Black gum, poplar, oak and willow emit gases that can raise ozone levels up to eight times more than low-impact tree species.",
+        "references": [
+            {
+                "referenceID": "ref_24",
+                "title": "Trees That Pollute",
+                "doi": "10.1038/scientificamerican0614-14",
+                "url": "https://doi.org/10.1038/scientificamerican0614-14"
+            }
+        ]
+    },
+    {
+        "claimID": 27,
+        "sectionPath": [
+            "Sources",
+            "Natural sources"
+        ],
+        "paragraphNumber": 3,
+        "claim": "They are a major source of air pollution.",
+        "references": [
+            {
+                "referenceID": "ref_25",
+                "title": "Wildfire air pollution hazard during the 21st century",
+                "url": "https://acp.copernicus.org/articles/17/9223/2017/",
+                "doi": "10.5194/acp-17-9223-2017"
+            }
+        ]
+    },
+    {
+        "claimID": 28,
+        "sectionPath": [
+            "Major pollutants"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Some pollutants may be both primary and secondary — both are emitted directly and formed from other primary pollutants.",
+        "references": [
+            {
+                "referenceID": "ref_26",
+                "title": "Air Quality Guidelines: Global Update 2005: Particulate Matter, Ozone, Nitrogen Dioxide, and Sulfur Dioxide",
+                "url": "https://iris.who.int/bitstream/handle/10665/107823/9789289021920-eng.pdf?sequence=1&isAllowed=y"
+            }
+        ]
+    },
+    {
+        "claimID": 29,
+        "sectionPath": [
+            "Major pollutants",
+            "Ammonia"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Ammonia () is emitted mainly by overuse of synthetic nitrogen fertilizers on farmland, and from manure and urine from livestock.",
+        "references": [
+            {
+                "referenceID": "ref_27",
+                "title": "Ammonia from farms behind 60% of UK particulate air pollution – study",
+                "url": "https://www.theguardian.com/environment/2021/nov/04/ammonia-from-farms-behind-60-of-uk-particulate-air-pollution-study",
+                "work": "The Guardian"
+            }
+        ]
+    },
+    {
+        "claimID": 30,
+        "sectionPath": [
+            "Major pollutants",
+            "Ammonia"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Furthermore, when ammonia is deposited onto the soil, it can harm ecosystems via eutrophication.",
+        "references": [
+            {
+                "referenceID": "ref_28",
+                "title": "Air Pollution: Concepts, Theory, and Applications",
+                "doi": "10.1017/9781108674614.008",
+                "url": "https://doi.org/10.1017/9781108674614.008"
+            }
+        ]
+    },
+    {
+        "claimID": 31,
+        "sectionPath": [
+            "Major pollutants",
+            "Carbon dioxide"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Carbon dioxide () is mainly emitted by the burning of fossil fuels.  is sometimes called an air pollutant, because it is the main greenhouse gas responsible for climate change.",
+        "references": [
+            {
+                "referenceID": "ref_29",
+                "title": "Analysis: Global CO2 emissions from fossil fuels hit record high in 2022",
+                "url": "https://www.carbonbrief.org/analysis-global-co2-emissions-from-fossil-fuels-hit-record-high-in-2022/",
+                "website": "Carbon Brief"
+            },
+            {
+                "referenceID": "ref_30",
+                "title": "The Worst Climate Pollution Is Carbon Dioxide",
+                "url": "https://www.scientificamerican.com/article/the-worst-climate-pollution-is-carbon-dioxide/"
+            },
+            {
+                "referenceID": "ref_31",
+                "title": "Fundamentals of Air Pollution"
+            }
+        ]
+    },
+    {
+        "claimID": 32,
+        "sectionPath": [
+            "Major pollutants",
+            "Carbon dioxide"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Although the World Health Organization recognizes  as a climate pollutant, it does not include the gas in its Air Quality Guidelines or set recommended targets for it.",
+        "references": [
+            {
+                "referenceID": "ref_32",
+                "title": "Air Quality Guidelines Global Update 2005: Particulate matter, ozone, nitrogen dioxide and sulfur dioxide"
+            }
+        ]
+    },
+    {
+        "claimID": 33,
+        "sectionPath": [
+            "Major pollutants",
+            "Carbon dioxide"
+        ],
+        "paragraphNumber": 1,
+        "claim": "The Inflation Reduction Act of 2022 amended the Clean Air Act to define  from fossil fuel burning explicitly as an air pollutant.",
+        "references": [
+            {
+                "referenceID": "ref_33",
+                "title": "Democrats Designed the Climate Law to Be a Game Changer. Here's How.",
+                "url": "https://www.nytimes.com/2022/08/22/climate/epa-supreme-court-pollution.html",
+                "work": "The New York Times"
+            }
+        ]
+    },
+    {
+        "claimID": 34,
+        "sectionPath": [
+            "Major pollutants",
+            "Carbon monoxide"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Carbon monoxide (CO) is a colorless, odorless, and toxic gas.",
+        "references": [
+            {
+                "referenceID": "ref_34",
+                "title": "Carbon Monoxide Poisoning",
+                "url": "https://www.nhs.uk/conditions/carbon-monoxide-poisoning/",
+                "website": "National Health Service"
+            }
+        ]
+    },
+    {
+        "claimID": 35,
+        "sectionPath": [
+            "Major pollutants",
+            "Ground-level ozone"
+        ],
+        "paragraphNumber": 1,
+        "claim": "It can also form from carbon monoxide or methane.",
+        "references": [
+            {
+                "referenceID": "EEA-ozone",
+                "title": "Ground-level ozone",
+                "url": "https://climate-adapt.eea.europa.eu/en/observatory/evidence/health-effects/ground-level-ozone#:~:text=Ground-level%20ozone%20affects%20human,use,%20and%20even%20premature%20mortality."
+            }
+        ]
+    },
+    {
+        "claimID": 36,
+        "sectionPath": [
+            "Major pollutants",
+            "Ground-level ozone"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Due to the influence of temperature and sunlight on this reaction, high ozone levels are most common on hot summer afternoons.",
+        "references": [
+            {
+                "referenceID": "ref_35",
+                "title": "Cars and Air Pollution",
+                "url": "https://www.adeq.state.ar.us/air/planning/ozone/cars.aspx",
+                "website": "Arkansas Energy Department of Energy and Environment"
+            }
+        ]
+    },
+    {
+        "claimID": 37,
+        "sectionPath": [
+            "Major pollutants",
+            "Ground-level ozone"
+        ],
+        "paragraphNumber": 1,
+        "claim": "It is the main gas in photochemical smog.",
+        "references": [
+            {
+                "referenceID": "ref_36",
+                "title": "Air Pollution: Concepts, Theory, and Applications",
+                "doi": "10.1017/9781108674614.008",
+                "url": "https://doi.org/10.1017/9781108674614.008"
+            }
+        ]
+    },
+    {
+        "claimID": 38,
+        "sectionPath": [
+            "Major pollutants",
+            "Ground-level ozone"
+        ],
+        "paragraphNumber": 2,
+        "claim": "can be harmful to human health, but also to some materials, forests, plants, and crops.",
+        "references": [
+            {
+                "referenceID": "ref_37",
+                "title": "Ozone (O3)",
+                "url": "https://www.gov.uk/government/statistics/air-quality-statistics/concentrations-of-ozone",
+                "website": "GOV.UK"
+            }
+        ]
+    },
+    {
+        "claimID": 39,
+        "sectionPath": [
+            "Major pollutants",
+            "Ground-level ozone"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Smog is a particular problem in big cities where it cannot easily be transported away by wind (e.g. cities built in valleys surrounded by mountains).",
+        "references": [
+            {
+                "referenceID": "ref_38",
+                "title": "smog  National Geographic Society",
+                "url": "https://education.nationalgeographic.org/resource/smog/"
+            }
+        ]
+    },
+    {
+        "claimID": 40,
+        "sectionPath": [
+            "Major pollutants",
+            "Ground-level ozone"
+        ],
+        "paragraphNumber": 2,
+        "claim": "When ground-level ozone is produced, it can linger in the air for days or weeks, and therefore be transported far from where it was first formed.",
+        "references": [
+            {
+                "referenceID": "EEA-ozone",
+                "title": "Ground-level ozone",
+                "url": "https://climate-adapt.eea.europa.eu/en/observatory/evidence/health-effects/ground-level-ozone#:~:text=Ground-level%20ozone%20affects%20human,use,%20and%20even%20premature%20mortality."
+            }
+        ]
+    },
+    {
+        "claimID": 41,
+        "sectionPath": [
+            "Major pollutants",
+            "Nitrogen oxides"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Nitrogen dioxide () is formed from NO in a reaction with other atmospheric gases.  and  can form acid rain, can form into a haze, and can cause nutrient pollution in water.  is a reddish-brown toxic gas with a strong odor, whereas  is odorless and colorless.",
+        "references": [
+            {
+                "referenceID": "ref_39",
+                "title": "Quantification of lightning-produced NOx over the Pyrenees and the Ebro Valley by using different TROPOMI-NO2 and cloud research products",
+                "url": "https://amt.copernicus.org/articles/15/3329/2022/",
+                "doi": "10.5194/amt-15-3329-2022"
+            },
+            {
+                "referenceID": "ref_40",
+                "title": "Emissions of air pollutants in the UK – Nitrogen oxides (NOx)",
+                "url": "https://www.gov.uk/government/statistics/emissions-of-air-pollutants/emissions-of-air-pollutants-in-the-uk-nitrogen-oxides-nox",
+                "website": "GOV.UK"
+            },
+            {
+                "referenceID": "ref_41",
+                "title": "Basic Information about NO2",
+                "url": "https://www.epa.gov/no2-pollution/basic-information-about-no2",
+                "website": "Environmental Protection Agency"
+            },
+            {
+                "referenceID": "ref_42",
+                "title": "Nitrogen oxides, NOx",
+                "url": "https://www.eea.europa.eu/help/glossary/eper-chemicals-glossary/nitrogen-oxides-nox",
+                "website": "European Environment Agency"
+            }
+        ]
+    },
+    {
+        "claimID": 42,
+        "sectionPath": [
+            "Major pollutants",
+            "Particulate matter"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Particulate matter (PM), also known as particle pollution, includes all airborne substances that are not gases.",
+        "references": [
+            {
+                "referenceID": "DEFRA_PM",
+                "title": "Emissions of air pollutants in the UK – Particulate matter (PM and PM)",
+                "url": "https://www.gov.uk/government/statistics/emissions-of-air-pollutants/emissions-of-air-pollutants-in-the-uk-particulate-matter-pm10-and-pm25#major-emission-sources-for-pm10-and-pm25-in-the-uk"
+            },
+            {
+                "referenceID": "EPA_PM",
+                "title": "Particulate Matter (PM) Basics",
+                "url": "https://www.epa.gov/pm-pollution/particulate-matter-pm-basics",
+                "website": "Environmental Protection Agency"
+            }
+        ]
+    },
+    {
+        "claimID": 43,
+        "sectionPath": [
+            "Major pollutants",
+            "Particulate matter"
+        ],
+        "paragraphNumber": 1,
+        "claim": "It is a mix of microscopic solid particles or droplets suspended in a gas.",
+        "references": [
+            {
+                "referenceID": "ref_43",
+                "title": "What is Particulate Matter?  Urban Environmental Program in New England",
+                "url": "https://www3.epa.gov/region1/eco/uep/particulatematter.html",
+                "website": "Environmental Protection Agency"
+            }
+        ]
+    },
+    {
+        "claimID": 44,
+        "sectionPath": [
+            "Major pollutants",
+            "Particulate matter"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Particulate matter can contain a large variety of materials and chemical compounds including toxic substances, which can vary strongly in size.",
+        "references": [
+            {
+                "referenceID": "DEFRA_PM",
+                "title": "Emissions of air pollutants in the UK – Particulate matter (PM and PM)",
+                "url": "https://www.gov.uk/government/statistics/emissions-of-air-pollutants/emissions-of-air-pollutants-in-the-uk-particulate-matter-pm10-and-pm25#major-emission-sources-for-pm10-and-pm25-in-the-uk"
+            }
+        ]
+    },
+    {
+        "claimID": 45,
+        "sectionPath": [
+            "Major pollutants",
+            "Particulate matter"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Coarse PM (PM10) is 10 micrometer (μm) or smaller in diameter, fine PM (PM2.5) is smaller than 2.5 μm, and ultrafine particles are 0.1 μm or smaller.",
+        "references": [
+            {
+                "referenceID": ":16",
+                "title": "Inter-annual trends of ultrafine particles in urban Europe",
+                "url": "https://linkinghub.elsevier.com/retrieve/pii/S0160412024000965",
+                "doi": "10.1016/j.envint.2024.108510"
+            }
+        ]
+    },
+    {
+        "claimID": 46,
+        "sectionPath": [
+            "Major pollutants",
+            "Particulate matter"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Smaller particles pose more risk to health, as they can reach the bloodstream.",
+        "references": [
+            {
+                "referenceID": "EPA_PM",
+                "title": "Particulate Matter (PM) Basics",
+                "url": "https://www.epa.gov/pm-pollution/particulate-matter-pm-basics",
+                "website": "Environmental Protection Agency"
+            },
+            {
+                "referenceID": ":16",
+                "title": "Inter-annual trends of ultrafine particles in urban Europe",
+                "url": "https://linkinghub.elsevier.com/retrieve/pii/S0160412024000965",
+                "doi": "10.1016/j.envint.2024.108510"
+            }
+        ]
+    },
+    {
+        "claimID": 47,
+        "sectionPath": [
+            "Major pollutants",
+            "Particulate matter"
+        ],
+        "paragraphNumber": 2,
+        "claim": "A definitive link between fine particulate pollution and higher death rates in urban areas was established by the Harvard Six Cities study, published in 1993.",
+        "references": [
+            {
+                "referenceID": "laden",
+                "title": "A Tale of Six Cities: The Landmark Harvard Six Cities Study",
+                "doi": "10.1097/01.EE9.0000608272.94008.7b",
+                "url": "https://doi.org/10.1097/01.EE9.0000608272.94008.7b"
+            }
+        ]
+    },
+    {
+        "claimID": 48,
+        "sectionPath": [
+            "Major pollutants",
+            "Particulate matter"
+        ],
+        "paragraphNumber": 3,
+        "claim": "Human PM is usually finer than natural PM.",
+        "references": [
+            {
+                "referenceID": "ref_44",
+                "title": "World air particulate matter: sources, distribution and health effects",
+                "url": "https://link.springer.com/article/10.1007/s10311-017-0611-9",
+                "doi": "10.1007/s10311-017-0611-9"
+            }
+        ]
+    },
+    {
+        "claimID": 49,
+        "sectionPath": [
+            "Major pollutants",
+            "Particulate matter"
+        ],
+        "paragraphNumber": 3,
+        "claim": "Soot on the other hand is directly emitted from combustion, and consists of black carbon and organic compounds.",
+        "references": [
+            {
+                "referenceID": "ref_45",
+                "title": "Air Pollution: Concepts, Theory, and Applications",
+                "url": "https://www.cambridge.org/core/product/identifier/9781108674614/type/book",
+                "doi": "10.1017/9781108674614.009"
+            }
+        ]
+    },
+    {
+        "claimID": 50,
+        "sectionPath": [
+            "Major pollutants",
+            "Particulate matter"
+        ],
+        "paragraphNumber": 3,
+        "claim": "Particulate matter can have a cooling effect locally on the climate, as it reflects sunlight away from Earth's surface.",
+        "references": [
+            {
+                "referenceID": "ref_46",
+                "title": "If India chokes less, it will fry more",
+                "url": "https://www.economist.com/interactive/asia/2025/05/28/if-india-chokes-less-it-will-fry-more"
+            },
+            {
+                "referenceID": "ref_47",
+                "title": "Air pollution kills millions every year — where does it come from?",
+                "url": "https://ourworldindata.org/air-pollution-sources"
+            },
+            {
+                "referenceID": "ref_48",
+                "title": "Air pollution: The invisible health threat",
+                "url": "https://www.who.int/news-room/feature-stories/detail/air-pollution--the-invisible-health-threat",
+                "website": "www.who.int"
+            },
+            {
+                "referenceID": "ref_49",
+                "title": "Air Pollution and Your Health",
+                "url": "https://www.niehs.nih.gov/health/topics/agents/air-pollution",
+                "website": "National Institute of Environmental Health Sciences"
+            },
+            {
+                "referenceID": "ref_50",
+                "title": "National Institute of Environmental Health Sciences (NIEHS)",
+                "url": "https://stagetestdomain3.nih.gov/about-nih/what-we-do/nih-almanac/national-institute-environmental-health-sciences-niehs",
+                "website": "National Institutes of Health (NIH)"
+            }
+        ]
+    },
+    {
+        "claimID": 51,
+        "sectionPath": [
+            "Major pollutants",
+            "Sulfur dioxide"
+        ],
+        "paragraphNumber": 1,
+        "claim": "These fossil fuels often contain sulfur compounds, and their combustion generates sulfur dioxide.",
+        "references": [
+            {
+                "referenceID": "ref_51",
+                "title": "Emissions of air pollutants in the UK – Sulphur dioxide (SO2)",
+                "url": "https://www.gov.uk/government/statistics/emissions-of-air-pollutants/emissions-of-air-pollutants-in-the-uk-sulphur-dioxide-so2",
+                "website": "GOV.UK"
+            }
+        ]
+    },
+    {
+        "claimID": 52,
+        "sectionPath": [
+            "Major pollutants",
+            "Sulfur dioxide"
+        ],
+        "paragraphNumber": 1,
+        "claim": "In Europe and North America, SO2 is mostly found in areas with significant shipping and industry, as road traffic fuels are regulated.",
+        "references": [
+            {
+                "referenceID": "ref_52",
+                "title": "Air Pollution: Concepts, Theory, and Applications",
+                "doi": "10.1017/9781108674614.008",
+                "url": "https://doi.org/10.1017/9781108674614.008"
+            }
+        ]
+    },
+    {
+        "claimID": 53,
+        "sectionPath": [
+            "Major pollutants",
+            "Sulfur dioxide"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Smaller amounts of SO2 are released from smelting and volcanoes.",
+        "references": [
+            {
+                "referenceID": "usepaso2",
+                "title": "Sulfur Dioxide Basics",
+                "url": "https://www.epa.gov/so2-pollution/sulfur-dioxide-basics",
+                "website": "US EPA"
+            }
+        ]
+    },
+    {
+        "claimID": 54,
+        "sectionPath": [
+            "Major pollutants",
+            "Sulfur dioxide"
+        ],
+        "paragraphNumber": 2,
+        "claim": "At high concentrations, gaseous SOx can harm plants by damaging leafs and decreasing growth.",
+        "references": [
+            {
+                "referenceID": "usepaso2",
+                "title": "Sulfur Dioxide Basics",
+                "url": "https://www.epa.gov/so2-pollution/sulfur-dioxide-basics",
+                "website": "US EPA"
+            }
+        ]
+    },
+    {
+        "claimID": 55,
+        "sectionPath": [
+            "Major pollutants",
+            "Sulfur dioxide"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Further oxidation of SO2, mostly taking place in cloud droplets, forms sulfuric acid (H2SO4), which is one of the components of acid rain.\nthumb|Smog polluting the air.",
+        "references": [
+            {
+                "referenceID": "ref_53",
+                "title": "Air pollution: concepts, theory, and applications"
+            }
+        ]
+    },
+    {
+        "claimID": 56,
+        "sectionPath": [
+            "Major pollutants",
+            "Volatile organic compounds"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Volatile organic compounds (VOCs) are a class of carbon-based chemicals that exist as gases at room temperature, found both indoors and outdoors.",
+        "references": [
+            {
+                "referenceID": "epa-voc",
+                "title": "Technical Overview of Volatile Organic Compounds",
+                "url": "https://www.epa.gov/indoor-air-quality-iaq/technical-overview-volatile-organic-compounds",
+                "website": "US Environmental Protection Agency"
+            }
+        ]
+    },
+    {
+        "claimID": 57,
+        "sectionPath": [
+            "Major pollutants",
+            "Volatile organic compounds"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Some can cause cancer, such as butadiene and benzene, with benzene being released from cigarette smoking.",
+        "references": [
+            {
+                "referenceID": "ref_54",
+                "title": "The changing face of urban air pollution",
+                "url": "https://www.science.org/doi/10.1126/science.aar4925",
+                "doi": "10.1126/science.aar4925"
+            }
+        ]
+    },
+    {
+        "claimID": 58,
+        "sectionPath": [
+            "Major pollutants",
+            "Other pollutants"
+        ],
+        "paragraphNumber": 1,
+        "claim": "In the atmosphere, it comes mostly from cement production, coal burning, and incinerators.",
+        "references": [
+            {
+                "referenceID": "ref_55",
+                "title": "Air Pollution: Concepts, Theory, and Applications",
+                "doi": "10.1017/9781108674614.013",
+                "url": "https://doi.org/10.1017/9781108674614.013"
+            }
+        ]
+    },
+    {
+        "claimID": 59,
+        "sectionPath": [
+            "Major pollutants",
+            "Other pollutants"
+        ],
+        "paragraphNumber": 2,
+        "claim": "They persist in the environment, are capable of long-range transmission, bioaccumulate in humans and animals, and biomagnify in food chains.",
+        "references": [
+            {
+                "referenceID": ":17",
+                "title": "Persistent Organic Pollutants in the Environment: Origin and Role",
+                "url": "https://books.google.com/books?id=NiRAEAAAQBAJ"
+            }
+        ]
+    },
+    {
+        "claimID": 60,
+        "sectionPath": [
+            "Major pollutants",
+            "Other pollutants"
+        ],
+        "paragraphNumber": 2,
+        "claim": "The harmful effects of the pesticide DDT, a POP, were popularized by Rachel Carson's 1962 book Silent Spring.",
+        "references": [
+            {
+                "referenceID": "ref_56",
+                "title": "Air Pollution: Concepts, Theory, and Applications",
+                "doi": "10.1017/9781108674614.013",
+                "url": "https://doi.org/10.1017/9781108674614.013"
+            }
+        ]
+    },
+    {
+        "claimID": 61,
+        "sectionPath": [
+            "Major pollutants",
+            "Other pollutants"
+        ],
+        "paragraphNumber": 2,
+        "claim": "PFASs and polycyclic aromatic hydrocarbons (PAHs) are other examples of POPs.",
+        "references": [
+            {
+                "referenceID": "ref_57",
+                "title": "Persistent organic pollutants: The trade-off between potential risks and sustainable remediation methods",
+                "url": "https://linkinghub.elsevier.com/retrieve/pii/S0301479721017990",
+                "doi": "10.1016/j.jenvman.2021.113737"
+            }
+        ]
+    },
+    {
+        "claimID": 62,
+        "sectionPath": [
+            "Major pollutants",
+            "Other pollutants"
+        ],
+        "paragraphNumber": 3,
+        "claim": "Due to their chemical stability, CFCs persist in the atmosphere and eventually reach the stratosphere (the upper atmosphere).",
+        "references": [
+            {
+                "referenceID": "ref_58",
+                "title": "Basic Ozone Layer Science",
+                "url": "https://www.epa.gov/ozone-layer-protection/basic-ozone-layer-science",
+                "website": "www.epa.gov"
+            }
+        ]
+    },
+    {
+        "claimID": 63,
+        "sectionPath": [
+            "Major pollutants",
+            "Other pollutants"
+        ],
+        "paragraphNumber": 3,
+        "claim": "As the ozone layer blocks harmful UV radiation from reaching the Earth's surface, its depletion leads to health risks such as skin ageing and skin cancer.",
+        "references": [
+            {
+                "referenceID": "ref_59",
+                "title": "Air Pollution: Concepts, Theory, and Applications",
+                "doi": "10.1017/9781108674614.007",
+                "url": "https://doi.org/10.1017/9781108674614.007"
+            }
+        ]
+    },
+    {
+        "claimID": 64,
+        "sectionPath": [
+            "Exposure"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Rural areas typically have somewhat cleaner air than urban areas.Exposure to air pollution varies widely across the world and across groups.",
+        "references": [
+            {
+                "referenceID": "ref_60",
+                "title": "Socioeconomic Disparities and Air Pollution Exposure: a Global Review",
+                "doi": "10.1007/s40572-015-0069-5",
+                "url": "https://doi.org/10.1007/s40572-015-0069-5"
+            }
+        ]
+    },
+    {
+        "claimID": 65,
+        "sectionPath": [
+            "Exposure"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Children, for example, are more exposed because they breathe more rapidly than adults and closer to the ground, where pollution from vehicle exhaust and dust is more concentrated.",
+        "references": [
+            {
+                "referenceID": "HEI_2024_p21-23",
+                "title": "State of Global Air Report 2024: A Special Report on Global Exposure to Air Pollution and its Health Impacts with a Focus on Children's Health.",
+                "url": "https://www.stateofglobalair.org/sites/default/files/documents/2024-06/soga-2024-report_0.pdf"
+            }
+        ]
+    },
+    {
+        "claimID": 66,
+        "sectionPath": [
+            "Exposure"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Similarly, people engaging in strenuous exercise inhale more pollutants than those at rest.",
+        "references": [
+            {
+                "referenceID": ":7",
+                "title": "Fundamentals of Air Pollution",
+                "url": "https://shop.elsevier.com/books/fundamentals-of-air-pollution/vallero/978-0-12-373615-4"
+            }
+        ]
+    },
+    {
+        "claimID": 67,
+        "sectionPath": [
+            "Exposure"
+        ],
+        "paragraphNumber": 1,
+        "claim": "People can reduce their exposure by wearing high-quality face masks or by using air purifiers.",
+        "references": [
+            {
+                "referenceID": "ref_61",
+                "title": "Individual- and Household-Level Interventions to Reduce Air Pollution Exposures and Health Risks: a Review of the Recent Literature",
+                "doi": "10.1007/s40572-020-00296-z",
+                "url": "https://doi.org/10.1007/s40572-020-00296-z"
+            }
+        ]
+    },
+    {
+        "claimID": 68,
+        "sectionPath": [
+            "Exposure"
+        ],
+        "paragraphNumber": 2,
+        "claim": "thumb|Share of the population exposed to air pollution levels above WHO guidelines, 2017.|alt=most regions show that 100% of the population was exposed to unhealthy air pollution using the less strict 2017 WHO guidelines.For some pollutants, low exposure can be seen as safe, whereas other pollutants have negative health effects even at low levels.",
+        "references": [
+            {
+                "referenceID": "WHO_energy_health",
+                "title": "Air quality, energy and health",
+                "url": "https://www.who.int/teams/environment-climate-change-and-health/air-quality-energy-and-health/health-impacts"
+            }
+        ]
+    },
+    {
+        "claimID": 69,
+        "sectionPath": [
+            "Exposure"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Under the new guideline, nearly the entire global population—97%—is classified as exposed to unsafe levels of fine particles (PM2.5).",
+        "references": [
+            {
+                "referenceID": "ref_62",
+                "title": "Most of the World Breathes Unsafe Air, Taking More Than 2 Years Off Global Life Expectancy",
+                "url": "https://aqli.epic.uchicago.edu/news/most-of-the-world-breathes-unsafe-air-taking-more-than-2-years-off-global-life-expectancy/",
+                "website": "AQLI"
+            }
+        ]
+    },
+    {
+        "claimID": 70,
+        "sectionPath": [
+            "Exposure"
+        ],
+        "paragraphNumber": 2,
+        "claim": "The new limit for nitrogen dioxide (NO2) became 75% lower.",
+        "references": [
+            {
+                "referenceID": "ref_63",
+                "title": "WHO slashes guideline limits on air pollution from fossil fuels",
+                "url": "https://www.theguardian.com/environment/2021/sep/22/who-cuts-guideline-limits-on-air-pollution-from-fossil-fuels",
+                "website": "The Guardian"
+            }
+        ]
+    },
+    {
+        "claimID": 71,
+        "sectionPath": [
+            "Exposure"
+        ],
+        "paragraphNumber": 2,
+        "claim": "For all pollutants together, the World Health Organization concluded that 99% of the world population is exposed to harmful air pollution.",
+        "references": [
+            {
+                "referenceID": ":13",
+                "title": "Billions of people still breathe unhealthy air: new WHO data",
+                "url": "https://www.who.int/news/item/04-04-2022-billions-of-people-still-breathe-unhealthy-air-new-who-data"
+            }
+        ]
+    },
+    {
+        "claimID": 72,
+        "sectionPath": [
+            "Exposure"
+        ],
+        "paragraphNumber": 3,
+        "claim": "For some pollutants such as black carbon, traffic related exposures may dominate total exposure despite short exposure times, since high concentrations coincide with proximity to major roads or participation in (motorized) traffic.",
+        "references": [
+            {
+                "referenceID": "Dons et al.",
+                "title": "Impact of time-activity patterns on personal exposure to black carbon",
+                "doi": "10.1016/j.atmosenv.2011.03.064",
+                "url": "https://doi.org/10.1016/j.atmosenv.2011.03.064"
+            }
+        ]
+    },
+    {
+        "claimID": 73,
+        "sectionPath": [
+            "Exposure"
+        ],
+        "paragraphNumber": 3,
+        "claim": "A large portion of total daily exposure occurs as short peaks of high concentrations.",
+        "references": [
+            {
+                "referenceID": "Dons et al. 2019",
+                "title": "Transport most likely to cause air pollution peak exposures in everyday life: Evidence from over 2000 days of personal monitoring",
+                "doi": "10.1016/j.atmosenv.2019.06.035",
+                "url": "https://doi.org/10.1016/j.atmosenv.2019.06.035"
+            }
+        ]
+    },
+    {
+        "claimID": 74,
+        "sectionPath": [
+            "Exposure",
+            "By socioeconomic group"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Polluting industries and roads are more likely to be placed in poorer communities, and people in these communities are more likely to work outdoors, leading to additional exposure.",
+        "references": [
+            {
+                "referenceID": ":10",
+                "title": "Global air pollution exposure and poverty",
+                "doi": "10.1038/s41467-023-39797-4",
+                "url": "https://doi.org/10.1038/s41467-023-39797-4"
+            }
+        ]
+    },
+    {
+        "claimID": 75,
+        "sectionPath": [
+            "Exposure",
+            "By socioeconomic group"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Residents in public housing, who are generally low-income and cannot easily move to healthier neighborhoods, are highly affected by nearby refineries and chemical plants.",
+        "references": [
+            {
+                "referenceID": "ref_64",
+                "title": "Sacrifice Zones: The Front Lines of Toxic Chemical Exposure in the United States"
+            }
+        ]
+    },
+    {
+        "claimID": 76,
+        "sectionPath": [
+            "Exposure",
+            "By socioeconomic group"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Additionally, lower-income communities more often perform polluting activities, such as using solid biofuels for cooking.",
+        "references": [
+            {
+                "referenceID": "ref_65",
+                "title": "Inequalities in Air Pollution Exposure and Attributable Mortality in a Low Carbon Future",
+                "doi": "10.1029/2023EF003697",
+                "url": "https://doi.org/10.1029/2023EF003697"
+            },
+            {
+                "referenceID": "ref_66",
+                "title": "Household contributions to and impacts from air pollution in India",
+                "url": "https://www.nature.com/articles/s41893-021-00744-0",
+                "doi": "10.1038/s41893-021-00744-0"
+            }
+        ]
+    },
+    {
+        "claimID": 77,
+        "sectionPath": [
+            "Exposure",
+            "By socioeconomic group"
+        ],
+        "paragraphNumber": 1,
+        "claim": "In the United States, Blacks and Latinos generally face more pollution than Whites and Asians.",
+        "references": [
+            {
+                "referenceID": "Drury",
+                "title": "Pollution Trading and Environmental Justice: Los Angeles' Failed Experiment in Air Pollution Policy"
+            }
+        ]
+    },
+    {
+        "claimID": 78,
+        "sectionPath": [
+            "Exposure",
+            "By geographic area"
+        ],
+        "paragraphNumber": 1,
+        "claim": "+Top 5 most polluted cities in 2024CityPM2.5 concentrationByrnihat, India128Delhi, India108Karaganda, Kazakhstan105Mullanpur, India102Lahore, Pakistan102\nExposure to outdoor air pollution is worst in lower-middle income countries in line with the environmental Kuznets curve, which postulates that pollution is worst in economies that rely on manufacturing but have not yet been able to prioritize environmental regulation.",
+        "references": [
+            {
+                "referenceID": "ref_67",
+                "title": "World's Most Polluted Cities - PM2.5 Ranking  AirVisual",
+                "url": "https://www.iqair.com/us/world-most-polluted-cities",
+                "website": "IQAir"
+            },
+            {
+                "referenceID": ":10",
+                "title": "Global air pollution exposure and poverty",
+                "doi": "10.1038/s41467-023-39797-4",
+                "url": "https://doi.org/10.1038/s41467-023-39797-4"
+            }
+        ]
+    },
+    {
+        "claimID": 79,
+        "sectionPath": [
+            "Exposure",
+            "By geographic area"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Urbanization leads to a rapid rise in premature mortality due to air pollution in fast-growing tropical cities.",
+        "references": [
+            {
+                "referenceID": "ref_68",
+                "title": "Rapid rise in premature mortality due to anthropogenic air pollution in fast-growing tropical cities from 2005 to 2018",
+                "doi": "10.1126/sciadv.abm4435",
+                "url": "https://doi.org/10.1126/sciadv.abm4435"
+            }
+        ]
+    },
+    {
+        "claimID": 80,
+        "sectionPath": [
+            "Exposure",
+            "By geographic area"
+        ],
+        "paragraphNumber": 3,
+        "claim": "A map published in 2025 by Climate TRACE indicates that PM2.5 (fine particles) and other toxins are released near the homes of about 1.6 billion people, about 900 million of whom are in the path of \"super-emitting\" facilities such as power plants, refineries, ports, and mines.",
+        "references": [
+            {
+                "referenceID": "Guardian_20250924",
+                "title": "Fossil fuel burning poses threat to health of 1.6bn people, data shows",
+                "url": "https://www.theguardian.com/environment/2025/sep/24/fossil-fuel-burning-threat-health-16bn-people-data-shows"
+            }
+        ]
+    },
+    {
+        "claimID": 81,
+        "sectionPath": [
+            "Health effects"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Indoor air pollution is also associated with cataract.",
+        "references": [
+            {
+                "referenceID": "WHO_energy_health",
+                "title": "Air quality, energy and health",
+                "url": "https://www.who.int/teams/environment-climate-change-and-health/air-quality-energy-and-health/health-impacts"
+            }
+        ]
+    },
+    {
+        "claimID": 82,
+        "sectionPath": [
+            "Health effects"
+        ],
+        "paragraphNumber": 1,
+        "claim": "According to the WHO, 99% of the world's population lives in areas with air pollution that exceeds WHO recommended levels.",
+        "references": [
+            {
+                "referenceID": "ref_69",
+                "title": "Air pollution",
+                "url": "https://www.who.int/health-topics/air-pollution#tab=tab_1",
+                "website": "World Health Organization"
+            }
+        ]
+    },
+    {
+        "claimID": 83,
+        "sectionPath": [
+            "Health effects"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Even at very low levels (under the World Health Organization recommended levels), fine particulates can continue to cause harm.",
+        "references": [
+            {
+                "referenceID": "HEI_2024_p7-8",
+                "title": "State of Global Air Report 2024: A Special Report on Global Exposure to Air Pollution and its Health Impacts with a Focus on Children's Health.",
+                "url": "https://www.stateofglobalair.org/sites/default/files/documents/2024-06/soga-2024-report_0.pdf"
+            }
+        ]
+    },
+    {
+        "claimID": 84,
+        "sectionPath": [
+            "Health effects"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Pollutants strongly linked to ill health include particulate matter, carbon monoxide, nitrogen dioxide (NO2), ozone (O3), and sulfur dioxide (SO2).",
+        "references": [
+            {
+                "referenceID": "ref_70",
+                "title": "Airborne Particulate Matter: Human Exposure and Health Effects",
+                "url": "https://journals.lww.com/joem/abstract/2018/05000/airborne_particulate_matter__human_exposure_and.2.aspx",
+                "doi": "10.1097/JOM.0000000000001277"
+            },
+            {
+                "referenceID": "ref_71",
+                "title": "Outdoor Air Pollution: Nitrogen Dioxide, Sulfur Dioxide, and Carbon Monoxide Health Effects",
+                "url": "https://www.sciencedirect.com/science/article/abs/pii/S0002962915325933",
+                "doi": "10.1097/MAJ.0b013e31803b900f"
+            },
+            {
+                "referenceID": "ref_72",
+                "title": "Ozone",
+                "url": "https://www.lung.org/clean-air/outdoors/what-makes-air-unhealthy/ozone",
+                "website": "www.lung.org"
+            }
+        ]
+    },
+    {
+        "claimID": 85,
+        "sectionPath": [
+            "Health effects"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Fine particulates are especially damaging, as they can enter the bloodstream via the lungs and reach other organs.",
+        "references": [
+            {
+                "referenceID": "ref_73",
+                "title": "Health and Environmental Effects of Particulate Matter (PM)",
+                "url": "https://www.epa.gov/pm-pollution/health-and-environmental-effects-particulate-matter-pm",
+                "website": "www.epa.gov"
+            },
+            {
+                "referenceID": "ref_74",
+                "title": "The health effects of ultrafine particles",
+                "doi": "10.1038/s12276-020-0403-3",
+                "url": "https://doi.org/10.1038/s12276-020-0403-3"
+            }
+        ]
+    },
+    {
+        "claimID": 86,
+        "sectionPath": [
+            "Health effects"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Air pollution causes disease by driving inflammation and oxidative stress, suppressing the immune system, and by damaging DNA.",
+        "references": [
+            {
+                "referenceID": "WHO_energy_health",
+                "title": "Air quality, energy and health",
+                "url": "https://www.who.int/teams/environment-climate-change-and-health/air-quality-energy-and-health/health-impacts"
+            }
+        ]
+    },
+    {
+        "claimID": 87,
+        "sectionPath": [
+            "Health effects"
+        ],
+        "paragraphNumber": 3,
+        "claim": "People living in poverty, babies, and older people are disproportionately affected by air pollution; pregnancy is also more risky when exposed to air pollution.",
+        "references": [
+            {
+                "referenceID": "HEI_2024_p4",
+                "title": "State of Global Air Report 2024: A Special Report on Global Exposure to Air Pollution and its Health Impacts with a Focus on Children's Health.",
+                "url": "https://www.stateofglobalair.org/sites/default/files/documents/2024-06/soga-2024-report_0.pdf"
+            }
+        ]
+    },
+    {
+        "claimID": 88,
+        "sectionPath": [
+            "Health effects"
+        ],
+        "paragraphNumber": 3,
+        "claim": "Communities with a low socioeconomic status and minority groups are more vulnerable to pollution than more privileged communities.",
+        "references": [
+            {
+                "referenceID": "Morello-Frosch 2011",
+                "title": "Understanding the Cumulative Impacts of Inequalities in Environmental Health: Implications for Policy",
+                "doi": "10.1377/hlthaff.2011.0153",
+                "url": "https://doi.org/10.1377/hlthaff.2011.0153"
+            }
+        ]
+    },
+    {
+        "claimID": 89,
+        "sectionPath": [
+            "Health effects"
+        ],
+        "paragraphNumber": 3,
+        "claim": "Lower-income groups might for instance have less access to healthcare.",
+        "references": [
+            {
+                "referenceID": ":10",
+                "title": "Global air pollution exposure and poverty",
+                "doi": "10.1038/s41467-023-39797-4",
+                "url": "https://doi.org/10.1038/s41467-023-39797-4"
+            }
+        ]
+    },
+    {
+        "claimID": 90,
+        "sectionPath": [
+            "Health effects",
+            "Mortality"
+        ],
+        "paragraphNumber": 1,
+        "claim": "In comparison, war caused 50,000 yearly deaths and terrorism 25,000.\nthumb|Deaths in 2021 from air pollution per 100,000 inhabitants (IHME).|alt=map showing low death rates in Europe and the Americas, and high death rates in South and South East Asia, and AfricaEstimates of deaths due to air pollution vary.",
+        "references": [
+            {
+                "referenceID": "ref_75",
+                "title": "Data review: how many people die from air pollution?",
+                "url": "https://ourworldindata.org/data-review-air-pollution-deaths"
+            }
+        ]
+    },
+    {
+        "claimID": 91,
+        "sectionPath": [
+            "Health effects",
+            "Mortality"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Outdoor particulate pollution (PM2.5) was the largest cause of death (4.7 million), followed by indoor particulate pollution (3.1 million) and ozone (0.5 million).",
+        "references": [
+            {
+                "referenceID": "HEI_2024_p3-4",
+                "title": "State of Global Air Report 2024: A Special Report on Global Exposure to Air Pollution and its Health Impacts with a Focus on Children's Health.",
+                "url": "https://www.stateofglobalair.org/sites/default/files/documents/2024-06/soga-2024-report_0.pdf"
+            }
+        ]
+    },
+    {
+        "claimID": 92,
+        "sectionPath": [
+            "Health effects",
+            "Mortality"
+        ],
+        "paragraphNumber": 2,
+        "claim": "The World Health Organization estimates that 6.7 million people die from air pollution each year, 4.2 million due to outdoor air pollution.",
+        "references": [
+            {
+                "referenceID": "who2024",
+                "title": "Ambient (outdoor) air pollution",
+                "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health"
+            }
+        ]
+    },
+    {
+        "claimID": 93,
+        "sectionPath": [
+            "Health effects",
+            "Mortality"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Roughly 68% of outdoor air pollution-related premature deaths were due to coronary heart disease and stroke, 14% due to COPD, and 14% due to lung infections (lower respiratory tract infections).",
+        "references": [
+            {
+                "referenceID": "who2024",
+                "title": "Ambient (outdoor) air pollution",
+                "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health"
+            }
+        ]
+    },
+    {
+        "claimID": 94,
+        "sectionPath": [
+            "Health effects",
+            "Mortality"
+        ],
+        "paragraphNumber": 3,
+        "claim": "A study published in 2019 estimated that, for 2015, the number was about 8.8 million, with 5.5 million of these premature deaths due to air pollution from human sources.",
+        "references": [
+            {
+                "referenceID": "ref_76",
+                "title": "Effects of fossil fuel and total anthropogenic emission removal on public health and climate",
+                "doi": "10.1073/pnas.1819989116",
+                "url": "https://doi.org/10.1073/pnas.1819989116"
+            },
+            {
+                "referenceID": "2019-03-12-guardian",
+                "title": "Air pollution deaths are double previous estimates, finds research",
+                "url": "https://www.theguardian.com/environment/2019/mar/12/air-pollution-deaths-are-double-previous-estimates-finds-research",
+                "work": "The Guardian"
+            }
+        ]
+    },
+    {
+        "claimID": 95,
+        "sectionPath": [
+            "Health effects",
+            "Mortality"
+        ],
+        "paragraphNumber": 3,
+        "claim": "The global mean loss of life expectancy from air pollution in 2015 was 2.9 years, substantially more than, for example, 0.3 years from all forms of direct violence.",
+        "references": [
+            {
+                "referenceID": "10.1093/cvr/cvaa025",
+                "title": "Loss of life expectancy from air pollution compared to other risk factors: a worldwide perspective",
+                "doi": "10.1093/cvr/cvaa025",
+                "url": "https://doi.org/10.1093/cvr/cvaa025"
+            }
+        ]
+    },
+    {
+        "claimID": 96,
+        "sectionPath": [
+            "Health effects",
+            "Mortality",
+            "By region"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Regional deaths due to air pollution depend not only on the regional exposure, but also on how large and how old the population is, and the health of people  overall.",
+        "references": [
+            {
+                "referenceID": "ref_77",
+                "title": "Socio-demographic factors shaping the future global health burden from air pollution",
+                "url": "https://www.nature.com/articles/s41893-022-00976-8",
+                "doi": "10.1038/s41893-022-00976-8"
+            }
+        ]
+    },
+    {
+        "claimID": 97,
+        "sectionPath": [
+            "Health effects",
+            "Mortality",
+            "By region"
+        ],
+        "paragraphNumber": 2,
+        "claim": "In South America, about 4% of deaths are from air pollution, while in countries such as Australia, Canada, and the US, this number is under 3%.",
+        "references": [
+            {
+                "referenceID": "ref_78",
+                "title": "Air Pollution",
+                "url": "https://ourworldindata.org/air-pollution"
+            }
+        ]
+    },
+    {
+        "claimID": 98,
+        "sectionPath": [
+            "Health effects",
+            "Mortality",
+            "By region"
+        ],
+        "paragraphNumber": 3,
+        "claim": "In India, it contributed to 2.1 million deaths in 2021, whereas China saw 2.4 million deaths.",
+        "references": [
+            {
+                "referenceID": "ref_79",
+                "title": "Deaths from air pollution",
+                "url": "https://ourworldindata.org/grapher/air-pollution-deaths-country",
+                "website": "Our World in Data"
+            }
+        ]
+    },
+    {
+        "claimID": 99,
+        "sectionPath": [
+            "Health effects",
+            "Mortality",
+            "By region"
+        ],
+        "paragraphNumber": 3,
+        "claim": "Annual premature European deaths from air pollution are estimated at 416,000 to 800,000.",
+        "references": [
+            {
+                "referenceID": "ref_80",
+                "title": "Harm to human health from air pollution in Europe: burden of disease status, 2024",
+                "url": "https://www.eea.europa.eu/en/analysis/publications/harm-to-human-health-from-air-pollution-2024",
+                "website": "www.eea.europa.eu"
+            },
+            {
+                "referenceID": "2019-03-12-guardian",
+                "title": "Air pollution deaths are double previous estimates, finds research",
+                "url": "https://www.theguardian.com/environment/2019/mar/12/air-pollution-deaths-are-double-previous-estimates-finds-research",
+                "work": "The Guardian"
+            }
+        ]
+    },
+    {
+        "claimID": 100,
+        "sectionPath": [
+            "Health effects",
+            "Mortality",
+            "By region"
+        ],
+        "paragraphNumber": 3,
+        "claim": "Nigeria, Indonesia and Pakistan each saw over 200,000 deaths resulting from air pollution.",
+        "references": [
+            {
+                "referenceID": "ref_81",
+                "title": "Explore the Data  State of Global Air",
+                "url": "https://www.stateofglobalair.org/data",
+                "website": "www.stateofglobalair.org"
+            }
+        ]
+    },
+    {
+        "claimID": 101,
+        "sectionPath": [
+            "Health effects",
+            "Mortality",
+            "By source"
+        ],
+        "paragraphNumber": 1,
+        "claim": "The burning of fossil fuels is the largest source of air pollution deaths.",
+        "references": [
+            {
+                "referenceID": "10.1016/j.envres.2021.110754",
+                "title": "Global mortality from outdoor fine particle pollution generated by fossil fuel combustion: Results from GEOS-Chem",
+                "url": "https://www.sciencedirect.com/science/article/abs/pii/S0013935121000487",
+                "doi": "10.1016/j.envres.2021.110754"
+            }
+        ]
+    },
+    {
+        "claimID": 102,
+        "sectionPath": [
+            "Health effects",
+            "Mortality",
+            "By source"
+        ],
+        "paragraphNumber": 1,
+        "claim": "There are estimated 4.5 million annual premature deaths worldwide due to pollutants released by high-emission power stations and vehicle exhausts.",
+        "references": [
+            {
+                "referenceID": "ref_82",
+                "title": "Toxic air: The price of fossil fuels",
+                "url": "https://www.greenpeace.org/static/planet4-southeastasia-stateless/2020/02/21b480fa-toxic-air-report-110220.pdf"
+            }
+        ]
+    },
+    {
+        "claimID": 103,
+        "sectionPath": [
+            "Health effects",
+            "Mortality",
+            "By source"
+        ],
+        "paragraphNumber": 1,
+        "claim": "PM2.5 formed from emissions from coal-fired power plants could be more harmful than other types of fine particulate matter.",
+        "references": [
+            {
+                "referenceID": "science2023mortality",
+                "title": "Mortality risk from United States coal electricity generation",
+                "doi": "10.1126/science.adf4915",
+                "url": "https://doi.org/10.1126/science.adf4915"
+            }
+        ]
+    },
+    {
+        "claimID": 104,
+        "sectionPath": [
+            "Health effects",
+            "Mortality",
+            "By source"
+        ],
+        "paragraphNumber": 2,
+        "claim": "The World Health Organization (WHO) estimates that cooking-related pollution causes 3.8 million annual deaths.",
+        "references": [
+            {
+                "referenceID": "ref_83",
+                "title": "Household air pollution and health: fact sheet",
+                "url": "https://www.who.int/news-room/fact-sheets/detail/household-air-pollution-and-health"
+            }
+        ]
+    },
+    {
+        "claimID": 105,
+        "sectionPath": [
+            "Health effects",
+            "Mortality",
+            "By source"
+        ],
+        "paragraphNumber": 2,
+        "claim": "The Global Burden of Disease study estimated the number of deaths in 2021 at 3.1 million.",
+        "references": [
+            {
+                "referenceID": "ref_84",
+                "title": "Access to Energy",
+                "url": "https://ourworldindata.org/indoor-air-pollution#indoor-air-pollution-is-one-of-the-leading-risk-factors-for-premature-death"
+            }
+        ]
+    },
+    {
+        "claimID": 106,
+        "sectionPath": [
+            "Health effects",
+            "Cardiovascular disease"
+        ],
+        "paragraphNumber": 1,
+        "claim": "There is strong evidence that air pollution increases the risk of cardiovascular disease, including stroke, high blood pressure, and coronary heart disease.",
+        "references": [
+            {
+                "referenceID": "de BontJaganathanDahlquist2022",
+                "title": "Ambient air pollution and cardiovascular diseases: An umbrella review of systematic reviews and meta-analyses",
+                "doi": "10.1111/joim.13467",
+                "url": "https://doi.org/10.1111/joim.13467"
+            }
+        ]
+    },
+    {
+        "claimID": 107,
+        "sectionPath": [
+            "Health effects",
+            "Cardiovascular disease"
+        ],
+        "paragraphNumber": 1,
+        "claim": "According to the Global Burden of Disease Study, air pollution is responsible for 27% of deaths from strokes worldwide and 28% of coronary heart disease.",
+        "references": [
+            {
+                "referenceID": "HEI_2024_p27",
+                "title": "State of Global Air Report 2024: A Special Report on Global Exposure to Air Pollution and its Health Impacts with a Focus on Children's Health.",
+                "url": "https://www.stateofglobalair.org/sites/default/files/documents/2024-06/soga-2024-report_0.pdf"
+            }
+        ]
+    },
+    {
+        "claimID": 108,
+        "sectionPath": [
+            "Health effects",
+            "Cardiovascular disease"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Asia), for elderly and for people who are overweight.",
+        "references": [
+            {
+                "referenceID": "de BontJaganathanDahlquist2022",
+                "title": "Ambient air pollution and cardiovascular diseases: An umbrella review of systematic reviews and meta-analyses",
+                "doi": "10.1111/joim.13467",
+                "url": "https://doi.org/10.1111/joim.13467"
+            }
+        ]
+    },
+    {
+        "claimID": 109,
+        "sectionPath": [
+            "Health effects",
+            "Cardiovascular disease"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Air pollution is a leading risk factor for stroke, particularly in developing countries where pollutant levels are highest.",
+        "references": [
+            {
+                "referenceID": "HEI_2024_p27",
+                "title": "State of Global Air Report 2024: A Special Report on Global Exposure to Air Pollution and its Health Impacts with a Focus on Children's Health.",
+                "url": "https://www.stateofglobalair.org/sites/default/files/documents/2024-06/soga-2024-report_0.pdf"
+            }
+        ]
+    },
+    {
+        "claimID": 110,
+        "sectionPath": [
+            "Health effects",
+            "Cardiovascular disease"
+        ],
+        "paragraphNumber": 2,
+        "claim": "A systematic analysis of 17 different risk factors in 188 countries found air pollution is associated with nearly one in three strokes (29%) worldwide (34% of strokes in developing countries versus 10% in developed countries).",
+        "references": [
+            {
+                "referenceID": "Mayor2016",
+                "title": "Air pollution is a leading risk factor for stroke, global study shows",
+                "doi": "10.1136/bmj.i3272",
+                "url": "https://doi.org/10.1136/bmj.i3272"
+            },
+            {
+                "referenceID": "FeiginRothNaghavi2016",
+                "title": "Global burden of stroke and risk factors in 188 countries, during 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",
+                "doi": "10.1016/S1474-4422(16)30073-4",
+                "url": "https://doi.org/10.1016/S1474-4422(16)30073-4"
+            }
+        ]
+    },
+    {
+        "claimID": 111,
+        "sectionPath": [
+            "Health effects",
+            "Cardiovascular disease"
+        ],
+        "paragraphNumber": 2,
+        "claim": "The mechanisms linking air pollution to increased cardiovascular mortality are not fully understood, but likely include systemic inflammation and oxidative stress.",
+        "references": [
+            {
+                "referenceID": "ref_85",
+                "title": "Impact of air pollution on ischemic heart disease: Evidence, mechanisms, clinical perspectives",
+                "doi": "10.1016/j.atherosclerosis.2023.01.013",
+                "url": "https://doi.org/10.1016/j.atherosclerosis.2023.01.013"
+            }
+        ]
+    },
+    {
+        "claimID": 112,
+        "sectionPath": [
+            "Health effects",
+            "Lung disease"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Air pollution is associated with increased development, hospitalization, mortality, and COPD (chronic obstructive pulmonary disease).",
+        "references": [
+            {
+                "referenceID": ":22",
+                "title": "Air pollution and COPD: GOLD 2023 committee report",
+                "url": "https://publications.ersnet.org/content/erj/61/5/2202469",
+                "doi": "10.1183/13993003.02469-2022"
+            }
+        ]
+    },
+    {
+        "claimID": 113,
+        "sectionPath": [
+            "Health effects",
+            "Lung disease"
+        ],
+        "paragraphNumber": 1,
+        "claim": "COPD is a common disease which causes restricted airflow and breathing difficulties, and is the fourth-largest cause of death globally.",
+        "references": [
+            {
+                "referenceID": "ref_86",
+                "title": "Chronic obstructive pulmonary disease (COPD)",
+                "url": "https://www.who.int/news-room/fact-sheets/detail/chronic-obstructive-pulmonary-disease-(copd)"
+            }
+        ]
+    },
+    {
+        "claimID": 114,
+        "sectionPath": [
+            "Health effects",
+            "Lung disease"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Nearly half of global COPD deaths are due to air pollution.",
+        "references": [
+            {
+                "referenceID": "HEI_2024_p27",
+                "title": "State of Global Air Report 2024: A Special Report on Global Exposure to Air Pollution and its Health Impacts with a Focus on Children's Health.",
+                "url": "https://www.stateofglobalair.org/sites/default/files/documents/2024-06/soga-2024-report_0.pdf"
+            }
+        ]
+    },
+    {
+        "claimID": 115,
+        "sectionPath": [
+            "Health effects",
+            "Lung disease"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Fine particles (PM2.5) and NO2 are associated with increased risk of developing COPD.",
+        "references": [
+            {
+                "referenceID": "ref_87",
+                "title": "Identifying risk factors for COPD and adult-onset asthma: an umbrella review",
+                "doi": "10.1183/16000617.0009-2023",
+                "url": "https://doi.org/10.1183/16000617.0009-2023"
+            }
+        ]
+    },
+    {
+        "claimID": 116,
+        "sectionPath": [
+            "Health effects",
+            "Lung disease"
+        ],
+        "paragraphNumber": 1,
+        "claim": "In children, air pollution can hinder lung development, which may increase their susceptibility to COPD later in life.",
+        "references": [
+            {
+                "referenceID": ":22",
+                "title": "Air pollution and COPD: GOLD 2023 committee report",
+                "url": "https://publications.ersnet.org/content/erj/61/5/2202469",
+                "doi": "10.1183/13993003.02469-2022"
+            }
+        ]
+    },
+    {
+        "claimID": 117,
+        "sectionPath": [
+            "Health effects",
+            "Lung disease"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Air pollution is further associated with increased risk of asthma and worsening of symptoms, and this effect seems stronger in children.",
+        "references": [
+            {
+                "referenceID": "ref_88",
+                "title": "Effect of air pollution on asthma",
+                "url": "https://www.annallergy.org/article/S1081-1206(24)00018-8/fulltext",
+                "doi": "10.1016/j.anai.2024.01.017"
+            }
+        ]
+    },
+    {
+        "claimID": 118,
+        "sectionPath": [
+            "Health effects",
+            "Lung disease"
+        ],
+        "paragraphNumber": 2,
+        "claim": "For adults, fine particles (PM2.5) or NO2 seem linked to asthma onset too.",
+        "references": [
+            {
+                "referenceID": "ref_89",
+                "title": "Ambient air pollution exposure and adult asthma incidence: a systematic review and meta-analysis",
+                "doi": "10.1016/S2542-5196(24)00279-1",
+                "url": "https://doi.org/10.1016/S2542-5196(24)00279-1"
+            }
+        ]
+    },
+    {
+        "claimID": 119,
+        "sectionPath": [
+            "Health effects",
+            "Lung disease"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Short-term exposure to ozone makes asthma worse in children.",
+        "references": [
+            {
+                "referenceID": "HEI_2024_p18",
+                "title": "State of Global Air Report 2024: A Special Report on Global Exposure to Air Pollution and its Health Impacts with a Focus on Children's Health.",
+                "url": "https://www.stateofglobalair.org/sites/default/files/documents/2024-06/soga-2024-report_0.pdf"
+            }
+        ]
+    },
+    {
+        "claimID": 120,
+        "sectionPath": [
+            "Health effects",
+            "Lung disease"
+        ],
+        "paragraphNumber": 2,
+        "claim": "There is limited evidence on (almost) fatal asthma attacks in children: ground-level ozone and PM2.5 seem to increase its risk.",
+        "references": [
+            {
+                "referenceID": "ref_90",
+                "title": "Outdoor air pollution and near-fatal/fatal asthma attacks in children: A systematic review",
+                "url": "https://onlinelibrary.wiley.com/doi/10.1002/ppul.26932",
+                "doi": "10.1002/ppul.26932"
+            }
+        ]
+    },
+    {
+        "claimID": 121,
+        "sectionPath": [
+            "Health effects",
+            "Cancer"
+        ],
+        "paragraphNumber": 1,
+        "claim": "About 265,000 lung cancer deaths were attributed globally in 2019 to exposure to fine particulate matter (PM2.5) suspended in the air.",
+        "references": [
+            {
+                "referenceID": ":12",
+                "title": "Air Pollution and Lung Cancer: A Review by International Association for the Study of Lung Cancer Early Detection and Screening Committee",
+                "doi": "10.1016/j.jtho.2023.05.024",
+                "url": "https://doi.org/10.1016/j.jtho.2023.05.024"
+            }
+        ]
+    },
+    {
+        "claimID": 122,
+        "sectionPath": [
+            "Health effects",
+            "Cancer"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Exposure to indoor air pollution, including radon, caused another 170,000 lung cancer deaths.",
+        "references": [
+            {
+                "referenceID": ":12",
+                "title": "Air Pollution and Lung Cancer: A Review by International Association for the Study of Lung Cancer Early Detection and Screening Committee",
+                "doi": "10.1016/j.jtho.2023.05.024",
+                "url": "https://doi.org/10.1016/j.jtho.2023.05.024"
+            }
+        ]
+    },
+    {
+        "claimID": 123,
+        "sectionPath": [
+            "Health effects",
+            "Cancer"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Lung cancer was also more common among people exposed to NO2 and black carbon.",
+        "references": [
+            {
+                "referenceID": "ref_91",
+                "title": "Long-term exposure to air pollution on cardio-respiratory, and lung cancer mortality: a systematic review and meta-analysis",
+                "doi": "10.1007/s40201-024-00900-6",
+                "url": "https://doi.org/10.1007/s40201-024-00900-6"
+            }
+        ]
+    },
+    {
+        "claimID": 124,
+        "sectionPath": [
+            "Health effects",
+            "Cancer"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Outdoor air pollution may increase risk of other types of cancer too, but the evidence is not as clear as for lung cancer.",
+        "references": [
+            {
+                "referenceID": ":11",
+                "title": "Outdoor air pollution and cancer: An overview of the current evidence and public health recommendations",
+                "doi": "10.3322/caac.21632",
+                "url": "https://doi.org/10.3322/caac.21632"
+            }
+        ]
+    },
+    {
+        "claimID": 125,
+        "sectionPath": [
+            "Health effects",
+            "Cancer"
+        ],
+        "paragraphNumber": 2,
+        "claim": "For example, there may be a relationship between kidney cancer and PM2.5 and NO2 levels.",
+        "references": [
+            {
+                "referenceID": "ref_92",
+                "title": "Air pollution and kidney cancer risk: a systematic review and meta-analysis",
+                "doi": "10.1007/s40620-024-01984-x",
+                "url": "https://doi.org/10.1007/s40620-024-01984-x"
+            }
+        ]
+    },
+    {
+        "claimID": 126,
+        "sectionPath": [
+            "Health effects",
+            "Cancer"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Household air pollution – from cooking with solid fuels, but also from radon in building material – has been associated with cervical, oral, and esophageal cancer.",
+        "references": [
+            {
+                "referenceID": ":11",
+                "title": "Outdoor air pollution and cancer: An overview of the current evidence and public health recommendations",
+                "doi": "10.3322/caac.21632",
+                "url": "https://doi.org/10.3322/caac.21632"
+            }
+        ]
+    },
+    {
+        "claimID": 127,
+        "sectionPath": [
+            "Health effects",
+            "Pregnancy and children"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Stillbirths, miscarriages, and birth defects are all more likely when the mother is exposed to air pollution during pregnancy.",
+        "references": [
+            {
+                "referenceID": "HEI_2024_p21-23",
+                "title": "State of Global Air Report 2024: A Special Report on Global Exposure to Air Pollution and its Health Impacts with a Focus on Children's Health.",
+                "url": "https://www.stateofglobalair.org/sites/default/files/documents/2024-06/soga-2024-report_0.pdf"
+            }
+        ]
+    },
+    {
+        "claimID": 128,
+        "sectionPath": [
+            "Health effects",
+            "Pregnancy and children"
+        ],
+        "paragraphNumber": 1,
+        "claim": "The impacts might be due to pollutants directly impacting the placenta or fetus, or indirectly via the mother's health (as air pollution can cause systemic inflammation and oxidative stress).",
+        "references": [
+            {
+                "referenceID": "HEI_2024_p21-23",
+                "title": "State of Global Air Report 2024: A Special Report on Global Exposure to Air Pollution and its Health Impacts with a Focus on Children's Health.",
+                "url": "https://www.stateofglobalair.org/sites/default/files/documents/2024-06/soga-2024-report_0.pdf"
+            }
+        ]
+    },
+    {
+        "claimID": 129,
+        "sectionPath": [
+            "Health effects",
+            "Pregnancy and children"
+        ],
+        "paragraphNumber": 2,
+        "claim": "It causes more than half a million newborn deaths, a quarter of overall deaths.",
+        "references": [
+            {
+                "referenceID": "HEI_2024_p21-23",
+                "title": "State of Global Air Report 2024: A Special Report on Global Exposure to Air Pollution and its Health Impacts with a Focus on Children's Health.",
+                "url": "https://www.stateofglobalair.org/sites/default/files/documents/2024-06/soga-2024-report_0.pdf"
+            }
+        ]
+    },
+    {
+        "claimID": 130,
+        "sectionPath": [
+            "Health effects",
+            "Pregnancy and children"
+        ],
+        "paragraphNumber": 2,
+        "claim": "In the Middle East, North Africa, and West sub-Saharan Africa, fine PM comes from natural sources, such as dust storms.",
+        "references": [
+            {
+                "referenceID": ":0",
+                "title": "Preterm birth associated with maternal fine particulate matter exposure: A global, regional and national assessment",
+                "url": "http://eprints.whiterose.ac.uk/112553/1/Malley_2017_Environment_International.pdf",
+                "doi": "10.1016/j.envint.2017.01.023"
+            }
+        ]
+    },
+    {
+        "claimID": 131,
+        "sectionPath": [
+            "Health effects",
+            "Pregnancy and children"
+        ],
+        "paragraphNumber": 3,
+        "claim": "For data including older children, polluted air resulted in the death of over 700,000 children in 2021 (709,000 under 5 years of age and 16,600 aged 5–14 years).",
+        "references": [
+            {
+                "referenceID": "HEI_2024_p21-23",
+                "title": "State of Global Air Report 2024: A Special Report on Global Exposure to Air Pollution and its Health Impacts with a Focus on Children's Health.",
+                "url": "https://www.stateofglobalair.org/sites/default/files/documents/2024-06/soga-2024-report_0.pdf"
+            }
+        ]
+    },
+    {
+        "claimID": 132,
+        "sectionPath": [
+            "Health effects",
+            "Pregnancy and children"
+        ],
+        "paragraphNumber": 3,
+        "claim": "Children in low- or middle-income countries are exposed to higher levels of fine particulate matter than those in high income countries.",
+        "references": [
+            {
+                "referenceID": ":8",
+                "title": "Air pollution and child health: prescribing clean air. Summary.",
+                "url": "https://www.who.int/publications/i/item/air-pollution-and-child-health"
+            }
+        ]
+    },
+    {
+        "claimID": 133,
+        "sectionPath": [
+            "Health effects",
+            "Pregnancy and children"
+        ],
+        "paragraphNumber": 3,
+        "claim": "Further health effects of air pollution on children include asthma, pneumonia, and lower respiratory tract infections.",
+        "references": [
+            {
+                "referenceID": ":9",
+                "title": "Inheriting the World: The Atlas of Children's Health and the Environment",
+                "url": "https://www.who.int/publications/i/item/9241591560"
+            }
+        ]
+    },
+    {
+        "claimID": 134,
+        "sectionPath": [
+            "Health effects",
+            "Pregnancy and children"
+        ],
+        "paragraphNumber": 3,
+        "claim": "There is possibly a link between exposure to air pollution during pregnancy and after birth and autism in children.",
+        "references": [
+            {
+                "referenceID": "ref_93",
+                "title": "Autism spectrum disorder and air pollution: A systematic review and meta-analysis",
+                "url": "https://linkinghub.elsevier.com/retrieve/pii/S0269749121004383",
+                "doi": "10.1016/j.envpol.2021.116856"
+            },
+            {
+                "referenceID": "ref_94",
+                "title": "Dysregulated metabolic pathways associated with air pollution exposure and the risk of autism: Evidence from epidemiological studies",
+                "doi": "10.1016/j.envpol.2024.124729",
+                "url": "https://doi.org/10.1016/j.envpol.2024.124729"
+            }
+        ]
+    },
+    {
+        "claimID": 135,
+        "sectionPath": [
+            "Health effects",
+            "Pregnancy and children"
+        ],
+        "paragraphNumber": 4,
+        "claim": "Scientists at BIPS in Bremen were able to demonstrate a causal relationship for at least some health problems (e.g. diabetes and high blood pressure) using a special study design.",
+        "references": [
+            {
+                "referenceID": "ref_95",
+                "title": "Clean air protects children from high blood pressure and elevated diabetes markers",
+                "url": "https://www.bips-institut.de/en/media/press/single-view/saubere-luft-schuetzt-kinder-vor-hohem-blutdruck-und-erhoehten-diabetes-markern.html",
+                "website": "www.bips-institut.de"
+            }
+        ]
+    },
+    {
+        "claimID": 136,
+        "sectionPath": [
+            "Health effects",
+            "Brain health"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Air pollution is linked to various diseases of the brain.",
+        "references": [
+            {
+                "referenceID": "ref_96",
+                "title": "A systematic review with a Burden of Proof meta-analysis of health effects of long-term ambient fine particulate matter (PM2.5) exposure on dementia",
+                "doi": "10.1038/s43587-025-00844-y",
+                "url": "https://doi.org/10.1038/s43587-025-00844-y"
+            }
+        ]
+    },
+    {
+        "claimID": 137,
+        "sectionPath": [
+            "Health effects",
+            "Brain health"
+        ],
+        "paragraphNumber": 1,
+        "claim": "It increases the risk of dementia.",
+        "references": [
+            {
+                "referenceID": "ref_97",
+                "title": "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission",
+                "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01296-0/abstract",
+                "doi": "10.1016/S0140-6736(24)01296-0"
+            },
+            {
+                "referenceID": "ref_98",
+                "title": "Long-term air pollution exposure and incident dementia: a systematic review and meta-analysis",
+                "doi": "10.1016/S2542-5196(25)00118-4",
+                "url": "https://doi.org/10.1016/S2542-5196(25)00118-4"
+            }
+        ]
+    },
+    {
+        "claimID": 138,
+        "sectionPath": [
+            "Health effects",
+            "Brain health"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Indoor air pollution exposure during childhood may negatively affect cognitive function and neurodevelopment.",
+        "references": [
+            {
+                "referenceID": "ref_99",
+                "title": "Early life multiple exposures and child cognitive function: A multi-centric birth cohort study in six European countries",
+                "doi": "10.1016/j.envpol.2021.117404",
+                "url": "https://doi.org/10.1016/j.envpol.2021.117404"
+            },
+            {
+                "referenceID": "10.1016/j.pharmthera.2020.107523",
+                "title": "Effects of air pollution on the nervous system and its possible role in neurodevelopmental and neurodegenerative disorders",
+                "doi": "10.1016/j.pharmthera.2020.107523",
+                "url": "https://doi.org/10.1016/j.pharmthera.2020.107523"
+            }
+        ]
+    },
+    {
+        "claimID": 139,
+        "sectionPath": [
+            "Health effects",
+            "Brain health"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Prenatal exposure may also affect neurodevelopment.",
+        "references": [
+            {
+                "referenceID": "ref_100",
+                "title": "Prenatal air pollution exposure and neurodevelopment: A review and blueprint for a harmonized approach within ECHO",
+                "doi": "10.1016/j.envres.2020.110320",
+                "url": "https://doi.org/10.1016/j.envres.2020.110320"
+            },
+            {
+                "referenceID": "ref_101",
+                "title": "Effects of prenatal exposure to NO2 on children's neurodevelopment: a systematic review and meta-analysis",
+                "doi": "10.1007/s11356-020-08832-y",
+                "url": "https://doi.org/10.1007/s11356-020-08832-y"
+            }
+        ]
+    },
+    {
+        "claimID": 140,
+        "sectionPath": [
+            "Health effects",
+            "Brain health"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Exposure to air pollution may contribute to neurodegenerative diseases such as Parkinson's disease.",
+        "references": [
+            {
+                "referenceID": "10.1016/j.pharmthera.2020.107523",
+                "title": "Effects of air pollution on the nervous system and its possible role in neurodevelopmental and neurodegenerative disorders",
+                "doi": "10.1016/j.pharmthera.2020.107523",
+                "url": "https://doi.org/10.1016/j.pharmthera.2020.107523"
+            }
+        ]
+    },
+    {
+        "claimID": 141,
+        "sectionPath": [
+            "Health effects",
+            "Brain health"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Exposure to air pollution may also drive mental health issues, such as depression and anxiety.",
+        "references": [
+            {
+                "referenceID": "ref_102",
+                "title": "The relationship between air pollution and depression and anxiety disorders – A systematic evaluation and meta-analysis of a cohort-based study",
+                "url": "https://journals.sagepub.com/doi/10.1177/00207640231197941?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed",
+                "doi": "10.1177/00207640231197941"
+            }
+        ]
+    },
+    {
+        "claimID": 142,
+        "sectionPath": [
+            "Health effects",
+            "Brain health"
+        ],
+        "paragraphNumber": 2,
+        "claim": "In particular, air pollution from the use of solid fuels was associated with a higher depression risk.",
+        "references": [
+            {
+                "referenceID": "ref_103",
+                "title": "Association between indoor air pollution and depression: a systematic review and meta-analysis of cohort studies",
+                "doi": "10.1136/bmjopen-2023-075105",
+                "url": "https://doi.org/10.1136/bmjopen-2023-075105"
+            }
+        ]
+    },
+    {
+        "claimID": 143,
+        "sectionPath": [
+            "Health effects",
+            "Brain health"
+        ],
+        "paragraphNumber": 2,
+        "claim": "The association was strongest for people over the age of 65.",
+        "references": [
+            {
+                "referenceID": "ref_104",
+                "title": "Association between particulate matter air pollution and risk of depression and suicide: a systematic review and meta-analysis",
+                "doi": "10.1007/s11356-021-12357-3",
+                "url": "https://doi.org/10.1007/s11356-021-12357-3"
+            }
+        ]
+    },
+    {
+        "claimID": 144,
+        "sectionPath": [
+            "Health effects",
+            "Brain health"
+        ],
+        "paragraphNumber": 3,
+        "claim": "Similarly, children tended to fare worse in tests involving working memory when there was NOx, PM2.5, or PM10 pollution.",
+        "references": [
+            {
+                "referenceID": "ref_105",
+                "title": "Air pollution and human cognition: A systematic review and meta-analysis",
+                "url": "https://linkinghub.elsevier.com/retrieve/pii/S004896972207334X",
+                "doi": "10.1016/j.scitotenv.2022.160234"
+            }
+        ]
+    },
+    {
+        "claimID": 145,
+        "sectionPath": [
+            "Health effects",
+            "Physical activity"
+        ],
+        "paragraphNumber": 1,
+        "claim": "A 2025 cross-national study involving 1.5 million adults demonstrated that high levels of ambient fine particulate matter (PM 2.5 μg/m3) can significantly diminish the protective effects of leisure-time physical activity against all-cause and cause-specific mortality.",
+        "references": [
+            {
+                "referenceID": "ku",
+                "title": "Does ambient PM2.5 reduce the protective association of leisure-time physical activity with mortality? A systematic review, meta-analysis, and individual-level pooled analysis of cohort studies involving 1.5 million adults",
+                "doi": "10.1186/s12916-025-04496-y",
+                "url": "https://doi.org/10.1186/s12916-025-04496-y"
+            }
+        ]
+    },
+    {
+        "claimID": 146,
+        "sectionPath": [
+            "Health effects",
+            "Physical activity"
+        ],
+        "paragraphNumber": 2,
+        "claim": "However, this benefit was halved (to 12–15%) when concentrations exceeded 25 μg/m3 exposure.",
+        "references": [
+            {
+                "referenceID": "ku",
+                "title": "Does ambient PM2.5 reduce the protective association of leisure-time physical activity with mortality? A systematic review, meta-analysis, and individual-level pooled analysis of cohort studies involving 1.5 million adults",
+                "doi": "10.1186/s12916-025-04496-y",
+                "url": "https://doi.org/10.1186/s12916-025-04496-y"
+            }
+        ]
+    },
+    {
+        "claimID": 147,
+        "sectionPath": [
+            "Social and environmental impacts",
+            "Acid rain"
+        ],
+        "paragraphNumber": 1,
+        "claim": "The term acid rain not only refers to rain, but also to pollution from hail, fog, and snow.",
+        "references": [
+            {
+                "referenceID": "Seigneur_acid_rain",
+                "title": "Air Pollution: Concepts, Theory, and Applications",
+                "doi": "10.1017/9781108674614.013",
+                "url": "https://doi.org/10.1017/9781108674614.013"
+            }
+        ]
+    },
+    {
+        "claimID": 148,
+        "sectionPath": [
+            "Social and environmental impacts",
+            "Acid rain"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Acid rain also impacts buildings and statues made of specific stones (e.g. marble, calcite or freestone), as the stone reacts chemically with the acid in the water and erodes.",
+        "references": [
+            {
+                "referenceID": "Seigneur_acid_rain",
+                "title": "Air Pollution: Concepts, Theory, and Applications",
+                "doi": "10.1017/9781108674614.013",
+                "url": "https://doi.org/10.1017/9781108674614.013"
+            }
+        ]
+    },
+    {
+        "claimID": 149,
+        "sectionPath": [
+            "Social and environmental impacts",
+            "Water and soil pollution"
+        ],
+        "paragraphNumber": 1,
+        "claim": "This harms organisms that need oxygen to live, and can lead to the loss of sensitive species.",
+        "references": [
+            {
+                "referenceID": "ref_106",
+                "title": "Air Pollution: Concepts, Theory, and Applications",
+                "doi": "10.1017/9781108674614.013",
+                "url": "https://doi.org/10.1017/9781108674614.013"
+            },
+            {
+                "referenceID": "ref_107",
+                "title": "Eutrophication of terrestrial ecosystems due to air pollution",
+                "url": "https://www.eea.europa.eu/airs/2018/natural-capital/eutrophication-of-terrestrial-ecosystems",
+                "website": "European Environment Agency"
+            }
+        ]
+    },
+    {
+        "claimID": 150,
+        "sectionPath": [
+            "Social and environmental impacts",
+            "Agricultural effects"
+        ],
+        "paragraphNumber": 1,
+        "claim": "For PM2.5, a 1% increase in pollution levels would lead to about $5 billion in losses, especially in colder climates.",
+        "references": [
+            {
+                "referenceID": "Dong2023",
+                "title": "Air pollution as a substantial threat to the improvement of agricultural total factor productivity: Global evidence",
+                "doi": "10.1016/j.envint.2023.107842",
+                "url": "https://doi.org/10.1016/j.envint.2023.107842"
+            }
+        ]
+    },
+    {
+        "claimID": 151,
+        "sectionPath": [
+            "Social and environmental impacts",
+            "Agricultural effects"
+        ],
+        "paragraphNumber": 1,
+        "claim": "After air pollutants enter the agricultural environment, they not only directly affect agricultural production and quality, but also enter agricultural waters and soil.",
+        "references": [
+            {
+                "referenceID": "ref_108",
+                "title": "Assessing the relationship between air pollution, agricultural insurance, and agricultural green total factor productivity: evidence from China",
+                "url": "https://link.springer.com/10.1007/s11356-022-21287-7",
+                "doi": "10.1007/s11356-022-21287-7"
+            }
+        ]
+    },
+    {
+        "claimID": 152,
+        "sectionPath": [
+            "Social and environmental impacts",
+            "Agricultural effects"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Air pollution further decreases the productivity of laborers via health impacts.",
+        "references": [
+            {
+                "referenceID": "Dong2023",
+                "title": "Air pollution as a substantial threat to the improvement of agricultural total factor productivity: Global evidence",
+                "doi": "10.1016/j.envint.2023.107842",
+                "url": "https://doi.org/10.1016/j.envint.2023.107842"
+            }
+        ]
+    },
+    {
+        "claimID": 153,
+        "sectionPath": [
+            "Social and environmental impacts",
+            "Agricultural effects"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Both forests and crops saw positive effects; the improvement was most pronounced for crops.",
+        "references": [
+            {
+                "referenceID": "ref_109",
+                "title": "Improved air quality leads to enhanced vegetation growth during the COVID–19 lockdown in India",
+                "doi": "10.1016/j.apgeog.2022.102869",
+                "url": "https://doi.org/10.1016/j.apgeog.2022.102869"
+            }
+        ]
+    },
+    {
+        "claimID": 154,
+        "sectionPath": [
+            "Social and environmental impacts",
+            "Economic effects"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Tourism may be negatively affected due to decreased visibility and damage to cultural heritage.",
+        "references": [
+            {
+                "referenceID": "ref_110",
+                "title": "The Economic Consequences of Outdoor Air Pollution",
+                "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2016/06/the-economic-consequences-of-outdoor-air-pollution_g1g68583/9789264257474-en.pdf",
+                "doi": "10.1787/9789264257474-en"
+            }
+        ]
+    },
+    {
+        "claimID": 155,
+        "sectionPath": [
+            "Social and environmental impacts",
+            "Economic effects"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Increased NO2 levels are for instance linked to construction site accidents.",
+        "references": [
+            {
+                "referenceID": "Lavy Rachkovski Yoresh 2022 p.",
+                "title": "Heads Up: Does Air Pollution Cause Workplace Accidents?",
+                "url": "https://www.nber.org/papers/w30715",
+                "doi": "10.3386/w30715"
+            }
+        ]
+    },
+    {
+        "claimID": 156,
+        "sectionPath": [
+            "Social and environmental impacts",
+            "Economic effects"
+        ],
+        "paragraphNumber": 2,
+        "claim": "About 85% of this loss globally came from the loss of life, the rest from increased ill health.",
+        "references": [
+            {
+                "referenceID": ":15",
+                "title": "The Global Health Cost of PM2.5 Air Pollution: A Case for Action Beyond 2021",
+                "url": "https://documents1.worldbank.org/curated/en/455211643691938459/pdf/The-Global-Health-Cost-of-PM-2-5-Air-Pollution-A-Case-for-Action-Beyond-2021.pdf",
+                "doi": "10.1596/978-1-4648-1816-5"
+            }
+        ]
+    },
+    {
+        "claimID": 157,
+        "sectionPath": [
+            "Social and environmental impacts",
+            "Economic effects"
+        ],
+        "paragraphNumber": 2,
+        "claim": "The costs of lives lost are calculated using the Value of Statistical Life, a number that tries to estimate how much people would be willing to pay to reduce their risk of dying.",
+        "references": [
+            {
+                "referenceID": ":15",
+                "title": "The Global Health Cost of PM2.5 Air Pollution: A Case for Action Beyond 2021",
+                "url": "https://documents1.worldbank.org/curated/en/455211643691938459/pdf/The-Global-Health-Cost-of-PM-2-5-Air-Pollution-A-Case-for-Action-Beyond-2021.pdf",
+                "doi": "10.1596/978-1-4648-1816-5"
+            }
+        ]
+    },
+    {
+        "claimID": 158,
+        "sectionPath": [
+            "Social and environmental impacts",
+            "Economic effects"
+        ],
+        "paragraphNumber": 2,
+        "claim": "This number differs by country and is difficult to estimate for low- and middle-income countries.",
+        "references": [
+            {
+                "referenceID": "ref_111",
+                "title": "The costs, health and economic impact of air pollution control strategies: a systematic review",
+                "doi": "10.1186/s41256-024-00373-y",
+                "url": "https://doi.org/10.1186/s41256-024-00373-y"
+            }
+        ]
+    },
+    {
+        "claimID": 159,
+        "sectionPath": [
+            "Social and environmental impacts",
+            "Economic effects"
+        ],
+        "paragraphNumber": 3,
+        "claim": "The Caspian region and China would see the largest impact.",
+        "references": [
+            {
+                "referenceID": "ref_112",
+                "title": "The Economic Consequences of Outdoor Air Pollution",
+                "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2016/06/the-economic-consequences-of-outdoor-air-pollution_g1g68583/9789264257474-en.pdf",
+                "doi": "10.1787/9789264257474-en"
+            }
+        ]
+    },
+    {
+        "claimID": 160,
+        "sectionPath": [
+            "Social and environmental impacts",
+            "Economic effects"
+        ],
+        "paragraphNumber": 3,
+        "claim": "It also causes the panels to become dirty, further reducing their energy output.",
+        "references": [
+            {
+                "referenceID": "ref_113",
+                "title": "Air pollution and soiling implications for solar photovoltaic power generation: A comprehensive review",
+                "url": "https://www.sciencedirect.com/science/article/abs/pii/S030626192100667X",
+                "doi": "10.1016/j.apenergy.2021.117247"
+            }
+        ]
+    },
+    {
+        "claimID": 161,
+        "sectionPath": [
+            "History of air pollution"
+        ],
+        "paragraphNumber": 1,
+        "claim": "In particular, lead levels, found in Arctic ice cores, were about ten times higher in the Roman period than in the period before.",
+        "references": [
+            {
+                "referenceID": "ref_114",
+                "title": "The Basic Environmental History",
+                "doi": "10.1007/978-3-319-09180-8_5",
+                "url": "https://doi.org/10.1007/978-3-319-09180-8_5"
+            }
+        ]
+    },
+    {
+        "claimID": 162,
+        "sectionPath": [
+            "History of air pollution",
+            "Industrial Revolution"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Smoke-induced fogs reduced the amount of sunlight city-dwellers got, contributing to cases of rickets, a childhood disease caused by lack of sunlight and poor diet.",
+        "references": [
+            {
+                "referenceID": ":14",
+                "title": "The Basic Environmental History",
+                "doi": "10.1007/978-3-319-09180-8_5",
+                "url": "https://doi.org/10.1007/978-3-319-09180-8_5"
+            }
+        ]
+    },
+    {
+        "claimID": 163,
+        "sectionPath": [
+            "History of air pollution",
+            "Industrial Revolution"
+        ],
+        "paragraphNumber": 2,
+        "claim": "However, the business and political leadership of the industrial cities were enthusiastic backers of the industry: heavy black smoke meant prosperity, high profits, and high wages.  \nalt=See caption|thumb|Poster in the Soviet Union praising \"The smoke of chimneys is the breath of Soviet Russia.\"",
+        "references": [
+            {
+                "referenceID": "ref_115",
+                "url": "https://web.archive.org/web/20250701183646/https://eprints.leedsbeckett.ac.uk/id/eprint/2935/1/Mosley%20History%20and%20Technology%20paper.docx"
+            }
+        ]
+    },
+    {
+        "claimID": 164,
+        "sectionPath": [
+            "History of air pollution",
+            "Trends"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Globally, there has been a trend towards improved air quality worldwide from 2013 to 2023 with PM2.5 levels decreasing, particularly in Southeast Asia, East Asia and Oceania.",
+        "references": [
+            {
+                "referenceID": "ref_116",
+                "title": "PM2.5",
+                "url": "https://www.stateofglobalair.org/pollution-sources/pm25",
+                "website": "State of global air"
+            }
+        ]
+    },
+    {
+        "claimID": 165,
+        "sectionPath": [
+            "History of air pollution",
+            "Trends"
+        ],
+        "paragraphNumber": 2,
+        "claim": "The United States has seen many improvements in air quality in every major pollutants with significant reductions in carbon monoxide, nitrogen dioxide, lead and more in the 21st century.",
+        "references": [
+            {
+                "referenceID": "ref_117",
+                "title": "National Air Quality: Status and Trends of Key Air Pollutants",
+                "url": "https://www.epa.gov/air-trends",
+                "website": "Environmental Protection Agency"
+            }
+        ]
+    },
+    {
+        "claimID": 166,
+        "sectionPath": [
+            "History of air pollution",
+            "Trends"
+        ],
+        "paragraphNumber": 2,
+        "claim": "However smoke pollution from wildfires in the early 2020s has slowed or reversed the progress made on air quality in many states.",
+        "references": [
+            {
+                "referenceID": "ref_118",
+                "title": "Wildfire smoke's toxic influence",
+                "url": "https://news.stanford.edu/stories/2023/09/wildfire-smokes-toxic-influence",
+                "work": "Stanford Report"
+            }
+        ]
+    },
+    {
+        "claimID": 167,
+        "sectionPath": [
+            "History of air pollution",
+            "Miasma theory"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Germs coughed up by an infected person or spread by certain types of mosquitoes or hookworms were the real reason people caught an infectious disease.",
+        "references": [
+            {
+                "referenceID": "ref_119"
+            }
+        ]
+    },
+    {
+        "claimID": 168,
+        "sectionPath": [
+            "History of air pollution",
+            "Anti-smoke action and modern protections"
+        ],
+        "paragraphNumber": 1,
+        "claim": "During the interwar period of 1920s and 1930s, a move from coal to gas and oil meant there was less air pollution, but this trend reversed when World War II broke out.",
+        "references": [
+            {
+                "referenceID": ":14",
+                "title": "The Basic Environmental History",
+                "doi": "10.1007/978-3-319-09180-8_5",
+                "url": "https://doi.org/10.1007/978-3-319-09180-8_5"
+            }
+        ]
+    },
+    {
+        "claimID": 169,
+        "sectionPath": [
+            "History of air pollution",
+            "Anti-smoke action and modern protections"
+        ],
+        "paragraphNumber": 1,
+        "claim": "The United Kingdom suffered its worst air pollution during the 1952 Great Smog of London, with some 12,000 deaths, which led to the Clean Air Act 1956.",
+        "references": [
+            {
+                "referenceID": "EHP_112_1",
+                "title": "A Retrospective Assessment of Mortality from the London Smog Episode of 1952: The Role of Influenza and Pollution",
+                "doi": "10.1289/ehp.6539",
+                "url": "https://doi.org/10.1289/ehp.6539"
+            }
+        ]
+    },
+    {
+        "claimID": 170,
+        "sectionPath": [
+            "History of air pollution",
+            "Anti-smoke action and modern protections"
+        ],
+        "paragraphNumber": 1,
+        "claim": "The 1948 Donora smog in the US, killing 20 people, prompted the US to start regulating air pollution.",
+        "references": [
+            {
+                "referenceID": ":14",
+                "title": "The Basic Environmental History",
+                "doi": "10.1007/978-3-319-09180-8_5",
+                "url": "https://doi.org/10.1007/978-3-319-09180-8_5"
+            },
+            {
+                "referenceID": "ref_120",
+                "title": "When Smoke Ran Like Water: Tales of Environmental Deception and the Battle Against Pollution",
+                "url": "https://archive.org/details/whensmokeranlike00davi"
+            }
+        ]
+    },
+    {
+        "claimID": 171,
+        "sectionPath": [
+            "History of air pollution",
+            "Anti-smoke action and modern protections"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Japan followed in 1960, but other heavily polluted regions, such as the Soviet Union and China, did not implement effective regulation.",
+        "references": [
+            {
+                "referenceID": ":14",
+                "title": "The Basic Environmental History",
+                "doi": "10.1007/978-3-319-09180-8_5",
+                "url": "https://doi.org/10.1007/978-3-319-09180-8_5"
+            }
+        ]
+    },
+    {
+        "claimID": 172,
+        "sectionPath": [
+            "History of air pollution",
+            "Anti-smoke action and modern protections"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Leaked industrial vapours from the Union Carbide factory (later bought by the Dow Chemical Company), killed at least 20,000 people and affected about 600,000.",
+        "references": [
+            {
+                "referenceID": "Mosley54",
+                "title": "The Basic Environmental History",
+                "doi": "10.1007/978-3-319-09180-8_8",
+                "url": "https://doi.org/10.1007/978-3-319-09180-8_8"
+            }
+        ]
+    },
+    {
+        "claimID": 173,
+        "sectionPath": [
+            "History of air pollution",
+            "Anti-smoke action and modern protections"
+        ],
+        "paragraphNumber": 3,
+        "claim": "There has been far less success in combatting climate change, and greenhouse gas emissions, mostly from fossil fuels, continue to rise.",
+        "references": [
+            {
+                "referenceID": "Raiser2020",
+                "title": "Is the Paris Agreement effective? A systematic map of the evidence",
+                "doi": "10.1088/1748-9326/ab865c",
+                "url": "https://doi.org/10.1088/1748-9326/ab865c"
+            }
+        ]
+    },
+    {
+        "claimID": 174,
+        "sectionPath": [
+            "Measurement and monitoring",
+            "Monitoring"
+        ],
+        "paragraphNumber": 1,
+        "claim": "For instance, satellites and remote sensing are used to track PM, NO2, and ozone.",
+        "references": [
+            {
+                "referenceID": "ref_121",
+                "title": "Air Quality from Space",
+                "url": "https://airquality.gsfc.nasa.gov/",
+                "website": "airquality.gsfc.nasa.gov"
+            }
+        ]
+    },
+    {
+        "claimID": 175,
+        "sectionPath": [
+            "Measurement and monitoring",
+            "Monitoring"
+        ],
+        "paragraphNumber": 1,
+        "claim": "The density of measurements is improving as there are more low-cost techniques to measure air pollution.",
+        "references": [
+            {
+                "referenceID": "ref_122",
+                "title": "2023 World Air Quality Report",
+                "url": "https://www.iqair.com/dl/2023_World_Air_Quality_Report.pdf"
+            }
+        ]
+    },
+    {
+        "claimID": 176,
+        "sectionPath": [
+            "Measurement and monitoring",
+            "Monitoring"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Low-cost monitors can also be used for indoor air quality monitoring.",
+        "references": [
+            {
+                "referenceID": "ref_123",
+                "title": "Low–Cost Air Pollution Monitors and Indoor Air Quality",
+                "url": "https://www.epa.gov/indoor-air-quality-iaq/low-cost-air-pollution-monitors-and-indoor-air-quality",
+                "website": "www.epa.gov"
+            }
+        ]
+    },
+    {
+        "claimID": 177,
+        "sectionPath": [
+            "Measurement and monitoring",
+            "Monitoring"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Finally, air quality sensors can be incorporated into drones to measure air pollution higher up in the air.",
+        "references": [
+            {
+                "referenceID": "ref_124",
+                "title": "Monitoring ambient air: choosing a monitoring technique and method",
+                "url": "https://www.gov.uk/guidance/monitoring-ambient-air-choosing-a-monitoring-technique-and-method",
+                "website": "GOV.UK"
+            }
+        ]
+    },
+    {
+        "claimID": 178,
+        "sectionPath": [
+            "Measurement and monitoring",
+            "Monitoring"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Some websites attempt to map air pollution levels using available data.",
+        "references": [
+            {
+                "referenceID": "ref_125",
+                "title": "World Air Map: Live air quality everywhere in the world",
+                "url": "https://air.plumelabs.com/en/",
+                "website": "Plume Labs Air Report"
+            },
+            {
+                "referenceID": "ref_126",
+                "title": "Live Animated Air Quality Map (AQI, PM2.5...)  AirVisual",
+                "url": "https://www.iqair.com/air-quality-map"
+            }
+        ]
+    },
+    {
+        "claimID": 179,
+        "sectionPath": [
+            "Measurement and monitoring",
+            "Monitoring"
+        ],
+        "paragraphNumber": 2,
+        "claim": "These indexes can indicate when air quality is good, when it is dangerous for sensitive groups (e.g. children with asthma) and when it is a general hazard.",
+        "references": [
+            {
+                "referenceID": "ref_127",
+                "title": "Fundamentals of Air Pollution"
+            }
+        ]
+    },
+    {
+        "claimID": 180,
+        "sectionPath": [
+            "Measurement and monitoring",
+            "Modelling and inventories"
+        ],
+        "paragraphNumber": 1,
+        "claim": "When direct data is unavailable or when projecting future air pollutant levels, estimates can be derived using models or emission factors.",
+        "references": [
+            {
+                "referenceID": "ref_128",
+                "title": "Fundamentals of Air Pollution"
+            }
+        ]
+    },
+    {
+        "claimID": 181,
+        "sectionPath": [
+            "Measurement and monitoring",
+            "Modelling and inventories"
+        ],
+        "paragraphNumber": 1,
+        "claim": "This could for instance be the typical amount of particulate matter released from a coal-power station.",
+        "references": [
+            {
+                "referenceID": "ref_129",
+                "title": "Air pollutant emissions",
+                "url": "https://www.canada.ca/en/environment-climate-change/services/environmental-indicators/air-pollutant-emissions.html",
+                "website": "Canada.ca"
+            }
+        ]
+    },
+    {
+        "claimID": 182,
+        "sectionPath": [
+            "Measurement and monitoring",
+            "Modelling and inventories"
+        ],
+        "paragraphNumber": 1,
+        "claim": "The United States Environmental Protection Agency has published a compilation of air pollutant emission factors for a wide range of industrial sources, as did the European Environment Agency.",
+        "references": [
+            {
+                "referenceID": "ref_130",
+                "title": "AP 42, Volume I",
+                "url": "http://www.epa.gov/ttn/chief/ap42/index.html",
+                "website": "US Environmental Protection Agency"
+            },
+            {
+                "referenceID": "ref_131",
+                "title": "EMEP/EEA air pollutant emission inventory guidebook—2009",
+                "url": "http://www.eea.europa.eu/publications/emep-eea-emission-inventory-guidebook-2009",
+                "website": "Eea.europa.eu"
+            }
+        ]
+    },
+    {
+        "claimID": 183,
+        "sectionPath": [
+            "Measurement and monitoring",
+            "Modelling and inventories"
+        ],
+        "paragraphNumber": 2,
+        "claim": "They can also be used to predict future pollution levels under different policy scenarios.",
+        "references": [
+            {
+                "referenceID": "ref_132",
+                "title": "Air Quality Models",
+                "url": "https://www.epa.gov/scram/air-quality-models",
+                "website": "www.epa.gov"
+            }
+        ]
+    },
+    {
+        "claimID": 184,
+        "sectionPath": [
+            "Measurement and monitoring",
+            "Modelling and inventories"
+        ],
+        "paragraphNumber": 2,
+        "claim": "There are models for local pollution, but also for cross-boundary pollution.",
+        "references": [
+            {
+                "referenceID": "ref_133",
+                "title": "Air Pollution Modelling",
+                "url": "https://www.apis.ac.uk/air-pollution-modelling"
+            }
+        ]
+    },
+    {
+        "claimID": 185,
+        "sectionPath": [
+            "Pollution reduction by sector"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Pollution prevention seeks to prevent pollution such as air pollution and could include adjustments to industrial and business activities such as designing sustainable manufacturing processes (and the products' designs) as well as efforts towards renewable energy transitions.",
+        "references": [
+            {
+                "referenceID": "ref_134",
+                "title": "Trade-off Modeling for Product and Manufacturing Process Design for the Environment",
+                "doi": "10.1162/jiec.1998.2.1.79",
+                "url": "https://doi.org/10.1162/jiec.1998.2.1.79"
+            },
+            {
+                "referenceID": "ref_135",
+                "title": "Zero air pollution and zero carbon from all energy at low cost and without blackouts in variable weather throughout the U.S. with 100% wind-water-solar and storage",
+                "url": "https://www.sciencedirect.com/science/article/abs/pii/S0960148121016499",
+                "doi": "10.1016/j.renene.2021.11.067"
+            },
+            {
+                "referenceID": "ref_136",
+                "title": "The role of renewable energy in the global energy transformation",
+                "doi": "10.1016/j.esr.2019.01.006",
+                "url": "https://doi.org/10.1016/j.esr.2019.01.006"
+            }
+        ]
+    },
+    {
+        "claimID": 186,
+        "sectionPath": [
+            "Pollution reduction by sector",
+            "Industry and waste"
+        ],
+        "paragraphNumber": 1,
+        "claim": "In the power sector, a very effective means to reduce air pollution is the transition to renewable energy (e.g. solar and wind energy) or nuclear power.",
+        "references": [
+            {
+                "referenceID": ":2",
+                "title": "Reducing global air pollution: the scope for further policy interventions",
+                "doi": "10.1098/rsta.2019.0331",
+                "url": "https://doi.org/10.1098/rsta.2019.0331"
+            }
+        ]
+    },
+    {
+        "claimID": 187,
+        "sectionPath": [
+            "Pollution reduction by sector",
+            "Industry and waste"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Switching from coal-fired power plants to fossil gas reduces air pollution, but does not eliminate it.",
+        "references": [
+            {
+                "referenceID": "ref_137",
+                "title": "The downstream air pollution impacts of the transition from coal to natural gas in the United States",
+                "url": "https://www.nature.com/articles/s41893-019-0453-5",
+                "doi": "10.1038/s41893-019-0453-5"
+            }
+        ]
+    },
+    {
+        "claimID": 188,
+        "sectionPath": [
+            "Pollution reduction by sector",
+            "Industry and waste"
+        ],
+        "paragraphNumber": 2,
+        "claim": "In agriculture, air pollution can be minimized by not overusing fertilizers and by not feeding excess protein to livestock.",
+        "references": [
+            {
+                "referenceID": ":2",
+                "title": "Reducing global air pollution: the scope for further policy interventions",
+                "doi": "10.1098/rsta.2019.0331",
+                "url": "https://doi.org/10.1098/rsta.2019.0331"
+            }
+        ]
+    },
+    {
+        "claimID": 189,
+        "sectionPath": [
+            "Pollution reduction by sector",
+            "Transport"
+        ],
+        "paragraphNumber": 1,
+        "claim": "thumb|Electric rickshaws in Nepal.|alt=a row of electric rickshaws with a couple of people inside\nthumb|Tram in Alicante, Spain.|alt=see caption\nThe avoid-shift-improve framework groups efforts to cut pollution from vehicles into reducing travel, shifting to sustainable transport, and improving vehicle technology.",
+        "references": [
+            {
+                "referenceID": ":4",
+                "title": "Tackling Car Emissions in Urban Areas: Shift, Avoid, Improve",
+                "url": "https://linkinghub.elsevier.com/retrieve/pii/S0921800923002148",
+                "doi": "10.1016/j.ecolecon.2023.107951"
+            }
+        ]
+    },
+    {
+        "claimID": 190,
+        "sectionPath": [
+            "Pollution reduction by sector",
+            "Transport"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Motor traffic can be reduced by creating more walkable cities and by investing in cycling infrastructure.",
+        "references": [
+            {
+                "referenceID": "ref_138",
+                "title": "Blue skies and healthy lives: How active travel is transforming our cities",
+                "url": "https://www.c40.org/news/how-active-travel-is-transforming-cities/",
+                "website": "C40 Cities"
+            }
+        ]
+    },
+    {
+        "claimID": 191,
+        "sectionPath": [
+            "Pollution reduction by sector",
+            "Transport"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Working from home is another way of avoiding motorized traffic.",
+        "references": [
+            {
+                "referenceID": ":4",
+                "title": "Tackling Car Emissions in Urban Areas: Shift, Avoid, Improve",
+                "url": "https://linkinghub.elsevier.com/retrieve/pii/S0921800923002148",
+                "doi": "10.1016/j.ecolecon.2023.107951"
+            }
+        ]
+    },
+    {
+        "claimID": 192,
+        "sectionPath": [
+            "Pollution reduction by sector",
+            "Transport"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Traffic can be shifted to cleaner modes of transport by increasing use of public transport, for instance through higher parking fees or offering free public transport.",
+        "references": [
+            {
+                "referenceID": "ref_139",
+                "title": "Air pollution and health",
+                "doi": "10.1016/S2468-2667(16)30023-8",
+                "url": "https://doi.org/10.1016/S2468-2667(16)30023-8"
+            }
+        ]
+    },
+    {
+        "claimID": 193,
+        "sectionPath": [
+            "Pollution reduction by sector",
+            "Transport"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Finally, road vehicles can be improved from increased fuel efficiency, improved quality of fuels, emission standards, and conversion to electric vehicles.",
+        "references": [
+            {
+                "referenceID": "ref_140",
+                "title": "Urban air pollution control policies and strategies: a systematic review",
+                "doi": "10.1007/s40201-021-00744-4",
+                "url": "https://doi.org/10.1007/s40201-021-00744-4"
+            }
+        ]
+    },
+    {
+        "claimID": 194,
+        "sectionPath": [
+            "Pollution reduction by sector",
+            "Transport"
+        ],
+        "paragraphNumber": 2,
+        "claim": "For example, buses in New Delhi, India, switched to compressed natural gas after 2000, to reduce the city's thick pea soup smog.",
+        "references": [
+            {
+                "referenceID": ":9",
+                "title": "Inheriting the World: The Atlas of Children's Health and the Environment",
+                "url": "https://www.who.int/publications/i/item/9241591560"
+            },
+            {
+                "referenceID": "ref_141",
+                "title": "Cost-effectiveness analysis of compressed natural gas implementation in the public bus transit fleet in Delhi, India",
+                "url": "https://www.sciencedirect.com/science/article/abs/pii/S0967070X21002973",
+                "doi": "10.1016/j.tranpol.2021.10.019"
+            }
+        ]
+    },
+    {
+        "claimID": 195,
+        "sectionPath": [
+            "Pollution reduction by sector",
+            "Transport"
+        ],
+        "paragraphNumber": 3,
+        "claim": "Frank and his co-authors published a study with over 1,930 citations: Many Pathways from Land Use to Health.",
+        "references": [
+            {
+                "referenceID": "ref_142",
+                "title": "Lawrence Frank",
+                "url": "https://scholar.google.com/citations?user=sF_AKKQAAAAJ&hl=en",
+                "website": "scholar.google.com"
+            }
+        ]
+    },
+    {
+        "claimID": 196,
+        "sectionPath": [
+            "Pollution reduction by sector",
+            "Transport"
+        ],
+        "paragraphNumber": 3,
+        "claim": "The authors demonstrated that a 5% increase in walkability was associated with many benefits, including a 6.5% reduction in vehicle miles driven, a 5.6% reduction in grams of nitrogen oxides emissions, and a 5.5% emission reduction of volatile organic compounds (VOCs).",
+        "references": [
+            {
+                "referenceID": "ref_143",
+                "title": "Many Pathways from Land Use to Health: Associations between Neighborhood Walkability and Active Transportation, Body Mass Index, and Air Quality",
+                "url": "https://www.tandfonline.com/doi/full/10.1080/01944360608976725",
+                "doi": "10.1080/01944360608976725"
+            }
+        ]
+    },
+    {
+        "claimID": 197,
+        "sectionPath": [
+            "Pollution reduction by sector",
+            "Cooking, lighting and heating"
+        ],
+        "paragraphNumber": 1,
+        "claim": "These clean cooking devices, including those run on fossil fuels, usually have a smaller climate impact than traditional biomass stoves.",
+        "references": [
+            {
+                "referenceID": "ref_144",
+                "title": "A Vision for Clean Cooking Access for All",
+                "url": "https://iea.blob.core.windows.net/assets/f63eebbc-a3df-4542-b2fb-364dd66a2199/AVisionforCleanCookingAccessforAll.pdf"
+            }
+        ]
+    },
+    {
+        "claimID": 198,
+        "sectionPath": [
+            "Pollution reduction by sector",
+            "Cooking, lighting and heating"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Combustion of fossil fuels for space heating can be replaced by the use of electricity in heat pumps.",
+        "references": [
+            {
+                "referenceID": "ref_145",
+                "title": "Air pollution from heating and cooling: stepping up clean energy use urgently needed - European Commission",
+                "url": "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/air-pollution-heating-and-cooling-stepping-clean-energy-use-urgently-needed-2025-01-07_en",
+                "website": "joint-research-centre.ec.europa.eu"
+            }
+        ]
+    },
+    {
+        "claimID": 199,
+        "sectionPath": [
+            "Policy and regulation",
+            "Laws and regulations"
+        ],
+        "paragraphNumber": 1,
+        "claim": "China launched a \"war against pollution\" in 2014, which drastically lowered particle pollution levels across the country.",
+        "references": [
+            {
+                "referenceID": "ref_146",
+                "title": "AQLI Policy Impacts—China: National Air Quality Action Plan (2014)",
+                "url": "https://aqli.epic.uchicago.edu/policy-impacts/china-national-air-quality-action-plan-2014/",
+                "website": "AQLI"
+            }
+        ]
+    },
+    {
+        "claimID": 200,
+        "sectionPath": [
+            "Policy and regulation",
+            "Laws and regulations"
+        ],
+        "paragraphNumber": 1,
+        "claim": "Few countries have limits that are as strict as the World Health Organization's recommendations.",
+        "references": [
+            {
+                "referenceID": "unep2021",
+                "title": "Regulating Air Quality: The First Global Assessment of Air Pollution Legislation",
+                "url": "https://www.unep.org/resources/report/regulating-air-quality-first-global-assessment-air-pollution-legislation"
+            }
+        ]
+    },
+    {
+        "claimID": 201,
+        "sectionPath": [
+            "Policy and regulation",
+            "Laws and regulations"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Air Quality Directive, which specify maximum atmospheric concentrations for specific pollutants.",
+        "references": [
+            {
+                "referenceID": "ref_147",
+                "title": "European Commission - Environment - Air - Air quality",
+                "url": "http://ec.europa.eu/environment/air/quality/legislation/directive.htm"
+            }
+        ]
+    },
+    {
+        "claimID": 202,
+        "sectionPath": [
+            "Policy and regulation",
+            "Laws and regulations"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Other examples of air quality laws around the world include the Clean Air Act in Britain, the US Clean Air Act, and the TA Luft in Germany.",
+        "references": [
+            {
+                "referenceID": "ref_148",
+                "title": "German TA-Luft is guaranteed by us",
+                "url": "https://www.centrotherm-cs.de/en/innovation/news-journal/detail/?cHash=2f8c3c73736a8bfee683c94544e0d805&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=9",
+                "website": "centrotherm clean solutions"
+            }
+        ]
+    },
+    {
+        "claimID": 203,
+        "sectionPath": [
+            "Policy and regulation",
+            "Laws and regulations"
+        ],
+        "paragraphNumber": 2,
+        "claim": "Air pollution laws might also put limits on the  of air pollutants, e.g. from vehicles.",
+        "references": [
+            {
+                "referenceID": "unep2021_p42",
+                "title": "Regulating Air Quality: The First Global Assessment of Air Pollution Legislation",
+                "url": "https://www.unep.org/resources/report/regulating-air-quality-first-global-assessment-air-pollution-legislation"
+            }
+        ]
+    },
+    {
+        "claimID": 204,
+        "sectionPath": [
+            "Policy and regulation",
+            "Laws and regulations"
+        ],
+        "paragraphNumber": 3,
+        "claim": "The World Health Organization's Global Air Quality Guidelines encourage improvements in a similar way to national standards, but are \"recommendations\" and \"good practice\" rather than mandatory targets that countries must achieve.",
+        "references": [
+            {
+                "referenceID": "who-guidelines",
+                "title": "WHO Global Air Quality Guidelines",
+                "url": "https://www.who.int/news-room/questions-and-answers/item/who-global-air-quality-guidelines"
+            }
+        ]
+    },
+    {
+        "claimID": 205,
+        "sectionPath": [
+            "Policy and regulation",
+            "Laws and regulations"
+        ],
+        "paragraphNumber": 4,
+        "claim": "Some air pollution action has been successful at the international level, such as the Montreal Protocol, which phased out harmful ozone-depleting chemicals.",
+        "references": [
+            {
+                "referenceID": ":20",
+                "title": "About Montreal Protocol",
+                "url": "http://www.unep.org/ozonaction/who-we-are/about-montreal-protocol",
+                "website": "Ozonaction"
+            }
+        ]
+    },
+    {
+        "claimID": 206,
+        "sectionPath": [
+            "Policy and regulation",
+            "Laws and regulations"
+        ],
+        "paragraphNumber": 4,
+        "claim": "On the other hand, international action on climate change, has been less successful.",
+        "references": [
+            {
+                "referenceID": ":21",
+                "title": "Global Climate Agreements: Successes and Failures",
+                "url": "https://www.cfr.org/backgrounder/paris-global-climate-change-agreements",
+                "website": "Council on Foreign Relations"
+            }
+        ]
+    },
+    {
+        "claimID": 207,
+        "sectionPath": [
+            "Policy and regulation",
+            "Laws and regulations"
+        ],
+        "paragraphNumber": 4,
+        "claim": "The 1997 Kyoto Protocol introduced modest reduction targets for some countries but lacked strong enforcement, while the 2015 Paris Agreement set no binding limits, instead encouraging all countries to raise their ambition over time.",
+        "references": [
+            {
+                "referenceID": "Mosley86",
+                "title": "The Basic Environmental History",
+                "doi": "10.1007/978-3-319-09180-8_5",
+                "url": "https://doi.org/10.1007/978-3-319-09180-8_5"
+            },
+            {
+                "referenceID": "Raiser2020",
+                "title": "Is the Paris Agreement effective? A systematic map of the evidence",
+                "doi": "10.1088/1748-9326/ab865c",
+                "url": "https://doi.org/10.1088/1748-9326/ab865c"
+            }
+        ]
+    },
+    {
+        "claimID": 208,
+        "sectionPath": [
+            "Policy and regulation",
+            "Clean air as a human right"
+        ],
+        "paragraphNumber": 1,
+        "claim": "This resolution followed the declaration from the UN Human Rights Council published earlier that year.",
+        "references": [
+            {
+                "referenceID": "ref_149",
+                "title": "In historic move, UN declares healthy environment a human right",
+                "url": "https://www.unep.org/news-and-stories/story/historic-move-un-declares-healthy-environment-human-right",
+                "website": "www.unep.org"
+            }
+        ]
+    },
+    {
+        "claimID": 209,
+        "sectionPath": [
+            "Policy and regulation",
+            "Clean air as a human right"
+        ],
+        "paragraphNumber": 2,
+        "claim": "The revised Ambient Air Quality Directive also makes it possible for individuals in the EU to seek compensation.",
+        "references": [
+            {
+                "referenceID": "ref_150",
+                "title": "Air quality: Commission decides to refer France to the Court over failure to meet its obligation to protect citizens against poor air quality",
+                "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_20_1880",
+                "website": "European Commission"
+            }
+        ]
+    },
+    {
+        "claimID": 210,
+        "sectionPath": [
+            "Policy and regulation",
+            "Clean air as a human right"
+        ],
+        "paragraphNumber": 2,
+        "claim": "While China allows litigation on environmental grounds, it is rare as it is seen as risky.",
+        "references": [
+            {
+                "referenceID": "ref_151",
+                "title": "Climate litigation can power China's low-carbon transition",
+                "url": "https://dialogue.earth/en/justice/climate-litigation-can-power-chinas-low-carbon-transition/",
+                "website": "Dialogue Earth"
+            }
+        ]
+    },
+    {
+        "claimID": 211,
+        "sectionPath": [
+            "Policy and regulation",
+            "Clean air as a human right"
+        ],
+        "paragraphNumber": 2,
+        "claim": "In Chile, the right to a healthy environment is part of the constitution, and the Supreme Court found that the government has to act to provide clear air because of this.",
+        "references": [
+            {
+                "referenceID": "ref_152",
+                "title": "Climate litigation in Latin America: is the region quietly leading a revolution?",
+                "url": "https://www.elgaronline.com/view/journals/jhre/14/1/article-p67.xml?tab_body=pdf",
+                "doi": "10.4337/jhre.2023.01.04"
+            }
+        ]
+    }
+]

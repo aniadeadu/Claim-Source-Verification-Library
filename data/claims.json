@@ -1,0 +1,911 @@
+{
+    "claims": [
+        {
+            "claimID": "1",
+            "claim": "A study by Johns Hopkins Public Health highlights that people living in poverty have a heightened risk of developing non-communicable diseases (NCDs) due to inadequate access to nutritious food, preventive medical care, and healthcare services.",
+            "category": "AI flagged",
+            "article": {
+                "title": "Diseases of Poverty",
+                "url": "https://en.wikipedia.org/w/index.php?oldid=1323409611"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "Poverty Increases Risk of Non-Communicable Diseases in Lower Income Countries",
+                    "sourceURL": "https://publichealth.jhu.edu/2018/poverty-increases-risk-of-non-communicable-diseases-in-lower-income-countries",
+                    "sourceCitation": "\"Poverty Increases Risk of Non-Communicable Diseases in Lower Income Countries | Johns Hopkins | Bloomberg School of Public Health\". publichealth.jhu.edu. April 5, 2018. Retrieved April 7, 2025.",
+                    "accessStatus": "Accessible",
+                    "accessNotes": "To read the full source information, click the \"Download PDF\" link",
+                    "accessedDate": "2026-10-29"
+                }
+            ],
+            "subclaims": [
+                {
+                    "subclaimID": "1.1",
+                    "text": "People living in poverty have a heightened risk of developing non-communicable diseases (NCDs).",
+                    "verdict": "Supported",
+                    "evidence": [
+                        {
+                            "quote": "Their findings show that since 2000, populations with lower socioeconomic status are at an elevated risk of developing NCDs—diabetes, stroke, myocardial infarction (heart attack) and cancer.",
+                            "location": "Fourth paragraph on the source’s webpage.",
+                            "verdict": "Supported"
+                        }
+                    ]
+                },
+                {
+                    "subclaimID": "1.2",
+                    "text": "….due to inadequate access to nutritious food, preventive medical care, and healthcare services.",
+                    "verdict": "Unclear",
+                    "evidence": []
+                }
+            ],
+            "overallVerdict": "Partially supported",
+            "evidenceGap": [
+                "Unestablished evidence about inadequate access to nutritious food, preventive medical care, and healthcare services."
+            ],
+            "reasoning": "The source confirms that people with lower socioeconomic status face a higher risk of developing NCDs, but it does not directly link this increased risk to all the specific factors listed in the claim, particularly limited access to nutritious food."
+        },
+        {
+            "claimID": "2",
+            "claim": "Because of the limited access to healthy foods, it follows that individuals who live farther away from supermarkets tend to have higher rates of obesity.",
+            "category": "AI flagged",
+            "article": {
+                "title": "Diseases of Poverty",
+                "url": "https://en.wikipedia.org/w/index.php?oldid=1323409611"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "Distance to Store, Food Prices, and Obesity in Urban Food Deserts",
+                    "sourceURL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4205193/",
+                    "sourceCitation": "Ghosh-Dastidar, Bonnie; Cohen, Deborah; Hunter, Gerald; Zenk, Shannon N.; Huang, Christina; Beckman, Robin; Dubowitz, Tamara (November 2014). \"Distance to Store, Food Prices, and Obesity in Urban Food Deserts\". American Journal of Preventive Medicine. 47 (5): 587–595. doi:10.1016/j.amepre.2014.07.005. ISSN 0749-3797. PMC 4205193. PMID 25217097.",
+                    "accessStatus": "Accessible",
+                    "accessNotes": "The full text article is available through PDF.",
+                    "accessedDate": "2026-11-03",
+                    "evidence": [
+                        {
+                            "quote": "Lack of access to healthy foods may explain why residents of low-income neighborhoods and African Americans in the U.S. have high rates of obesity.",
+                            "location": "Page 1,“Results” section under “Abstract”.",
+                            "verdict": ""
+                        },
+                        {
+                            "quote": "Distance to store and prices were positively associated with obesity (p<0.05). When distance to store and food prices were jointly modeled, only prices remained significant (p<0.01), with higher prices predicting a lower likelihood of obesity.",
+                            "location": "Page 1,“Results” section under “Abstract”.",
+                            "verdict": ""
+                        },
+                        {
+                            "quote": "In Model 2, there was a significant positive association between obesity and distance, after adjusting for sociodemographic characteristics. For every additional mile traveled to shop, the odds of being obese increased by 5% (p<0.05). In Model 3, a significant inverse adjusted association between obesity and SPI (p<0.01) was observed. In Model 4, the relationship between obesity and distance was non-significant, while the relationship between SPI and obesity remained statistically significant—shopping at a store with 1 SD–higher prices was associated with 36% lower odds of being obese.",
+                            "location": "Page 1,“Results” section under “Abstract”.",
+                            "verdict": ""
+                        }
+                    ]
+                }
+            ],
+            "subclaims": [],
+            "overallVerdict": "Partially supported",
+            "evidenceGap": [
+                "Distance-obesity association weakened after adjustment for food prices."
+            ],
+            "reasoning": "The first quote supports the general relationship between limited access to healthy foods and obesity. However, it does not specifically establish that people living farther from supermarkets have higher obesity rates.\n\nThe second quote identified an association between distance and obesity. However, when food prices were considered alongside distance, the association with distance was no longer statistically significant. This qualifies the support for the claim.\n\n\nThe third quote provides direct evidence that greater distance to the shopping store was associated with higher obesity odds. However, Model 4 shows that this relationship was no longer statistically significant after food prices were included. This suggests that distance alone may not explain the observed association."
+        },
+        {
+            "claimID": "3",
+            "claim": "Conversely, chronic conditions such as obesity can also increase rates of poverty via increased healthcare expenditures, wage loss during peak productive years, and missed schooling.",
+            "category": "AI flagged",
+            "article": {
+                "title": "Diseases of Poverty",
+                "url": "https://en.wikipedia.org/w/index.php?oldid=1323409611"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "Tackling socioeconomic inequalities and non-communicable diseases in low-income and middle-income countries under the Sustainable Development agenda",
+                    "sourceURL": "https://www.thelancet.com/action/showPdf?pii=S0140-6736%2818%2930482-3",
+                    "sourceCitation": "Niessen, Louis W.; Mohan, Diwakar; Akuoku, Jonathan K.; Mirelman, Andrew J.; Ahmed, Sayem; Koehlmoos, Tracey P.; Trujillo, Antonio; Khan, Jahangir; Peters, David H. (May 19, 2018). \"Tackling socioeconomic inequalities and non-communicable diseases in low-income and middle-income countries under the Sustainable Development agenda\". Lancet. 391 (10134): 2036–2046. doi:10.1016/S0140-6736(18)30482-3. ISSN 1474-547X. PMID 29627160. S2CID 4709102.",
+                    "accessStatus": "Registration Required",
+                    "accessNotes": "The publisher's article page is accessible, but access to the full-text PDF requires registration or sign-in.",
+                    "accessedDate": "2026-10-29"
+                }
+            ],
+            "subclaims": [
+                {
+                    "subclaimID": "3.1",
+                    "text": "Conversely, chronic conditions such as obesity...",
+                    "verdict": "Supported",
+                    "evidence": [
+                        {
+                            "quote": "Obesity is becoming increasingly common in LMICs and is affecting women and the poor in particular.",
+                            "location": "Page 2 of the PDF, evidence is located under \"The interaction between socioeconomic status and ill health\" section.",
+                            "verdict": "Supported"
+                        }
+                    ]
+                },
+                {
+                    "subclaimID": "3.2",
+                    "text": "..can also increase rates of poverty..",
+                    "verdict": "Supported",
+                    "evidence": [
+                        {
+                            "quote": "The reverse pathway is also plausible, as\nchronic illnesses might lead to poverty because of direct\nand indirect expenditures and loss of productivity",
+                            "location": "Page 2 of the PDF, evidence is located under \"The interaction between socioeconomic status and ill health\" section.",
+                            "verdict": "Supported"
+                        }
+                    ]
+                },
+                {
+                    "subclaimID": "3.3",
+                    "text": "...via increased healthcare expenditures, wage loss during peak productive years, and missed schooling.",
+                    "verdict": "Supported",
+                    "evidence": [
+                        {
+                            "quote": "Events related to chronic diseases might cause\nimpoverishment through wage loss, missed schooling, or catastrophic expenditures for health care.",
+                            "location": "Page 2 of the PDF, evidence is located under \"The interaction between socioeconomic status and ill health\" section.",
+                            "verdict": "Supported"
+                        }
+                    ]
+                }
+            ],
+            "overallVerdict": "Supported",
+            "evidenceGap": [],
+            "reasoning": "The first quote supports the claim that obesity as a chronic health condition affects poorer populations. \n\n\nThe second quote  supports the claim that chronic illnesses can contribute to poverty through healthcare-related expenditure and reduced productivity. The researcher explicitly describe the reverse relationship between ill health and poverty.\n\nThe third quote directly identifies wage loss, missed schooling and catastrophic healthcare expenditure as pathways through which chronic diseases can cause impoverishment."
+        },
+        {
+            "claimID": "4",
+            "claim": "Generally, low-income populations, whether they live in high-income countries or in low-middle income countries (LMIC) suffer higher disease burden for chronic conditions including obesity when compared to their higher income counterparts",
+            "category": "AI flagged",
+            "article": {
+                "title": "Diseases of Poverty",
+                "url": "https://en.wikipedia.org/w/index.php?oldid=1323409611"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "Poverty and health sector inequalities",
+                    "sourceURL": "https://pmc.ncbi.nlm.nih.gov/articles/instance/2567730/pdf/11953787.pdf",
+                    "sourceCitation": "Wagstaff, Adam (2002). \"Poverty and health sector inequalities\". Bulletin of the World Health Organization. 80 (2): 97–105. ISSN 0042-9686. PMC 2567730. PMID 11953787.",
+                    "accessStatus": "Accessible",
+                    "accessNotes": "The full text article is available through PDF.",
+                    "accessedDate": "2026-10-29"
+                }
+            ],
+            "subclaims": [
+                {
+                    "subclaimID": "4.1",
+                    "text": "Generally, low-income populations, whether they live in high-income countries or in low-middle income countries (LMIC) suffer higher disease burden for chronic conditions….....when compared to their higher income counterparts.",
+                    "verdict": "Supported",
+                    "evidence": [
+                        {
+                            "quote": "Within countries, poor people have worse health outcomes than better-off people.",
+                            "location": "Second sentence in the “Abstract” section on Page 1.",
+                            "verdict": "Supported"
+                        }
+                    ]
+                },
+                {
+                    "subclaimID": "4.2",
+                    "text": "...including obesity......",
+                    "verdict": "Unsupported",
+                    "evidence": [
+                        {
+                            "quote": "Firstly, inequalities in health are almost always to the disadvantage of the poor. The poor tend to die earlier and to have higher levels of morbidity than the better-off.",
+                            "location": "Page 2,  in the “Evidence of health inequalities between the poor and non-poor” section, second sentence in the second paragraph.",
+                            "verdict": "Unsupported"
+                        }
+                    ]
+                }
+            ],
+            "overallVerdict": "Partially supported",
+            "evidenceGap": [
+                "Unestablished evidence about obesity."
+            ],
+            "reasoning": "The source supports poorer health outcomes and higher illness rates among lower-income populations, but does not specifically establish the claim about obesity across both high income and low and middle-income countries. Therefore, the source supports the general point but does not fully support every detail of the claim."
+        },
+        {
+            "claimID": "5",
+            "claim": "In populations exhibiting sexual dimorphism, males tend to be slightly larger than females.",
+            "category": "AI flagged",
+            "article": {
+                "title": "",
+                "url": "https://en.wikipedia.org/w/index.php?oldid=1319297342"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "",
+                    "sourceURL": "https://academic.oup.com/mspecies/article/doi/10.2307/3504319/2600639",
+                    "sourceCitation": "",
+                    "accessStatus": "",
+                    "accessNotes": "",
+                    "accessedDate": null,
+                    "evidence": [
+                        {
+                            "quote": "Intrapopulation sexual dimorphism in size, when present (males larger than females), is slight (Brunson, 1973; Millar, 1971; Smith, 1981).",
+                            "location": "On the source webpage, click the PDF link. The evidence is located in “General Characters” on Page 2.",
+                            "verdict": ""
+                        }
+                    ]
+                }
+            ],
+            "subclaims": [],
+            "overallVerdict": "Supported",
+            "evidenceGap": [],
+            "reasoning": "The source directly confirms that males are slightly larger when sexual dimorphism occurs, therefore accounting for every detail in the claim."
+        },
+        {
+            "claimID": "6",
+            "claim": "Its notable features are suborbicular ears, densely furred feet with black pads at the toes, and a dense undercoat that provides insulation during winter months.",
+            "category": "AI flagged",
+            "article": {
+                "title": "",
+                "url": "https://en.wikipedia.org/w/index.php?oldid=1319297343"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "",
+                    "sourceURL": "https://natureworks.nhpbs.org/animals/american pika/",
+                    "sourceCitation": "",
+                    "accessStatus": "",
+                    "accessNotes": "",
+                    "accessedDate": null,
+                    "evidence": [
+                        {
+                            "quote": "The American pika is a member of the Lagomorpha or rabbit family. It has a small, round body; peppery brown fur; large, round ears; and no visible tail.",
+                            "location": "Under “Characteristics” heading, first paragraph.",
+                            "verdict": ""
+                        }
+                    ]
+                }
+            ],
+            "subclaims": [],
+            "overallVerdict": "Partially supported",
+            "evidenceGap": [],
+            "reasoning": "The source confirms the claim’s rounded ears but does not describe its furred feet, black toe pads, or insulating undercoat."
+        },
+        {
+            "claimID": "7",
+            "claim": "In adolescents, exposure to household poverty from early school years correlates with 0.32 standard deviations higher depressive symptoms by grade 8.",
+            "category": "AI flagged",
+            "article": {
+                "title": "Diseases of Poverty",
+                "url": "https://en.wikipedia.org/w/index.php?oldid=1323409611"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "Poverty, depression, and anxiety: Causal evidence and mechanisms",
+                    "sourceURL": "https://www.science.org/doi/10.1126/science.aay0214",
+                    "sourceCitation": "Ridley, Matthew; Rao, Gautam; Schilbach, Frank; Patel, Vikram (December 11, 2020). \"Poverty, depression, and anxiety: Causal evidence and mechanisms\". Science. 370 (6522): eaay0214. doi:10.1126/science.aay0214.",
+                    "accessStatus": "Registration Required",
+                    "accessNotes": "Access to the full article requires registration, sign-in or beoming an AAAS member.",
+                    "accessedDate": "2026-11-04",
+                    "evidence": []
+                }
+            ],
+            "subclaims": [],
+            "overallVerdict": "Unsupported",
+            "evidenceGap": [
+                "Adolescent-specific evidence and 0.32 SD finding not established."
+            ],
+            "reasoning": "The source discusses the general relationship between poverty and mental health. However, it does not establish the specific relationship between early exposure to household poverty and depressive symptoms among adolescents, nor does it report the 0.32 standard deviation finding by Grade 8."
+        },
+        {
+            "claimID": "8",
+            "claim": "In spite of this data, pervasive attitudes remain that individual behavior, not SES, is responsible for obesity.",
+            "category": "AI flagged",
+            "article": {
+                "title": "Diseases of Poverty",
+                "url": "https://en.wikipedia.org/w/index.php?oldid=1323409611"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "Changing attitudes towards obesity – results from a survey experiment",
+                    "sourceURL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5414181/",
+                    "sourceCitation": "Luck-Sikorski, C.; Riedel-Heller, S. G.; Phelan, J. C. (May 2, 2017). \"Changing attitudes towards obesity – results from a survey experiment\". BMC Public Health. 17 (1): 373. doi:10.1186/s12889-017-4275-y. ISSN 1471-2458. PMC 5414181. PMID 28464915.",
+                    "accessStatus": "Accessible",
+                    "accessNotes": "To read the source in full context, click the PDF link",
+                    "accessedDate": "2026-10-29"
+                }
+            ],
+            "subclaims": [
+                {
+                    "subclaimID": "8.1",
+                    "text": "In spite of this data, pervasive attitudes remain that individual behavior ... is responsible for obesity.",
+                    "verdict": "Supported",
+                    "evidence": [
+                        {
+                            "quote": "Overall, participants preferred individual causes (72.6%).",
+                            "location": "Second sentence in the “Results” subsection under “Abstract” section.",
+                            "verdict": "Supported"
+                        }
+                    ]
+                },
+                {
+                    "subclaimID": "8.2",
+                    "text": "...not SES, is responsible for obesity.",
+                    "verdict": "Unsupported",
+                    "evidence": [
+                        {
+                            "quote": "Research shows that obesity is generally perceived as a self-inflicted condition that lies under an individual’s control.",
+                            "location": "\"Background\" section",
+                            "verdict": "Unsupported"
+                        },
+                        {
+                            "quote": "This study shows that media and public health campaigns may solidify beliefs that obesity is due to individual causes and consequently increase stigma when presenting individual behavior as a cause of obesity.",
+                            "location": "“Conclusion” subsection in the “Abstract” section.",
+                            "verdict": "Unsupported"
+                        }
+                    ]
+                }
+            ],
+            "overallVerdict": "Partially supported",
+            "evidenceGap": [
+                "SES comparison not established."
+            ],
+            "reasoning": "The source compared attitudes towards obesity when it was attributed to individual behaviour, environmental factors, or genetic factors. It supports the claim that people tend to attribute obesity to individual causes, but it does not directly establish that they blame individual behaviour rather than socioeconomic status."
+        },
+        {
+            "claimID": "9",
+            "claim": "Of the 18 million premature NCD deaths under age 70 annually, 82% occur in LMICs, disproportionately affecting vulnerable populations and impeding poverty reduction through rising household healthcare costs.",
+            "category": "AI flagged",
+            "article": {
+                "title": "Diseases of Poverty",
+                "url": "https://en.wikipedia.org/w/index.php?oldid=1323409611"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "Noncommunicable diseases",
+                    "sourceURL": "https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases",
+                    "sourceCitation": "\"Noncommunicable diseases\". www.who.int. Retrieved November 21, 2025.",
+                    "accessStatus": "Accessible",
+                    "accessNotes": "The full text article is available on the webpage..",
+                    "accessedDate": "2026-10-29"
+                }
+            ],
+            "subclaims": [
+                {
+                    "subclaimID": "9.1",
+                    "text": "Of the 18 million premature NCD deaths under age 70 annually, 82% occur in LMICs..",
+                    "verdict": "Supported",
+                    "evidence": [
+                        {
+                            "quote": "In 2021, 18 million people died from an NCD before age 70 years; 82% of these premature deaths occur in low- and middle-income countries.",
+                            "location": "Second bullet point of  “Key facts” section.",
+                            "verdict": "Supported"
+                        }
+                    ]
+                },
+                {
+                    "subclaimID": "9.2",
+                    "text": "...disproportionately affecting vulnerable populations",
+                    "verdict": "Supported",
+                    "evidence": [
+                        {
+                            "quote": "NCDs disproportionately affect people in low- and middle-income countries.",
+                            "location": "Third paragraph in the “Overview” section.",
+                            "verdict": "Supported"
+                        }
+                    ]
+                },
+                {
+                    "subclaimID": "9.3",
+                    "text": "...and impeding poverty reduction through rising household healthcare costs.",
+                    "verdict": "Supported",
+                    "evidence": [
+                        {
+                            "quote": "The rapid rise in NCDs is predicted to impede poverty reduction initiatives in low-income countries, particularly by increasing household costs associated with health care.",
+                            "location": "Second paragraph in the “Socioeconomic Impact” section",
+                            "verdict": "Supported"
+                        }
+                    ]
+                }
+            ],
+            "overallVerdict": "Supported",
+            "evidenceGap": [],
+            "reasoning": "The source confirms that 82% of the 18 million premature NCD deaths recorded in 2021 occurred in LMICs. It also explains that NCDs disproportionately affect disadvantaged populations and that rising healthcare costs can hinder poverty reduction. These findings support the claim, although the death statistics specifically refer to 2021."
+        },
+        {
+            "claimID": "10",
+            "claim": "However, many impoverished communities continue to face barriers such as high medical costs, lack of healthcare infrastructure, and limited insurance coverage",
+            "category": "AI flagged",
+            "article": {
+                "title": "Diseases of Poverty",
+                "url": "https://en.wikipedia.org/w/index.php?oldid=1323409611"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "Poverty and Health - The Family Medicine Perspective (Position Paper)",
+                    "sourceURL": "https://www.aafp.org/about/policies/poverty-health",
+                    "sourceCitation": "\"Poverty and Health - The Family Medicine Perspective (Position Paper)\". www.aafp.org. Retrieved April 7, 2025.",
+                    "accessStatus": "Accessible",
+                    "accessNotes": "The full text article is available through PDF.",
+                    "accessedDate": null
+                }
+            ],
+            "subclaims": [
+                {
+                    "subclaimID": "10.1",
+                    "text": "However, many impoverished communities continue to face barriers such as high medical costs…",
+                    "verdict": "Supported",
+                    "evidence": [
+                        {
+                            "quote": "A patient may not take prescribed medication because it is too expensive.",
+                            "location": "“Community Responsive Care” section.",
+                            "verdict": "Supported"
+                        }
+                    ]
+                },
+                {
+                    "subclaimID": "10.2",
+                    "text": "...lack of healthcare infrastructure..",
+                    "verdict": "Unsupported",
+                    "evidence": [
+                        {
+                            "quote": "In many states, the expansion of Medicaid has allowed individuals and families with low income to become insured – perhaps for the first time.",
+                            "location": "",
+                            "verdict": "Unsupported"
+                        }
+                    ]
+                },
+                {
+                    "subclaimID": "10.3",
+                    "text": "..and limited insurance coverage…",
+                    "verdict": "Partially supported",
+                    "evidence": [
+                        {
+                            "quote": "",
+                            "location": "Opening paragraph in \"Help Newly Insured Patients Navigate the Health Care System\" section.",
+                            "verdict": "Partially supported"
+                        }
+                    ]
+                }
+            ],
+            "overallVerdict": "Partially supported",
+            "evidenceGap": [
+                "Unestablished healthcare infrastructure and extent of insurance coverage"
+            ],
+            "reasoning": "The first quote supports that the cost of medical treatment can prevent patients with low income from accessing prescribed medication.\n\nThe second quote suppports a relationship between income and health outcomes, but does not identify high medical costs as the specific barrier.\n\n\n\n\n\n\n\n\nThe third quote identified that some low-income individuals were previously uninsured. However, it does not establish how widespread limited insurance coverage is among impoverished communities."
+        },
+        {
+            "claimID": "11",
+            "claim": "Burning fuel to generate electricity causes air pollution; lignite and coal produce the most air pollution, followed by oil, and then by fossil gas and biomass.",
+            "category": "Not AI flagged",
+            "article": {
+                "title": "Air Pollution",
+                "url": "https://en.wikipedia.org/wiki/Air_pollution"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "Electricity generation and health.",
+                    "sourceURL": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(07)61253-7/",
+                    "sourceCitation": "Markandya A, Wilkinson P (2007). \"Electricity generation and health\". The Lancet. 370 (9591): 979–990. doi:10.1016/S0140-6736(07)61253-7. ISSN 0140-6736. PMID 17876910. Archived from the original on 22 March 2025. Retrieved 20 March 2025.",
+                    "accessStatus": "Registration Required",
+                    "accessNotes": "The publisher's article page is accessible, but access to the full-text PDF requires registration or sign-in.",
+                    "accessedDate": "2026-11-29"
+                },
+                {
+                    "sourceTitle": "What are the safest and cleanest sources of energy?",
+                    "sourceURL": "https://ourworldindata.org/safest-sources-of-energy",
+                    "sourceCitation": "Ritchie H, Roser M (2021). \"What are the safest and cleanest sources of energy?\". Our World in Data. Archived from the original on 15 January 2024. Data sources: Markandya & Wilkinson (2007); UNSCEAR (2008; 2018); Sovacool et al. (2016); IPCC AR5 (2014); Pehl et al. (2017); Ember Energy (2021).",
+                    "accessStatus": "Accessible",
+                    "accessNotes": "The full text article is available on the webpage.",
+                    "accessedDate": "2026-11-29"
+                }
+            ],
+            "subclaims": [
+                {
+                    "subclaimID": "11.1",
+                    "text": "Burning fuel to generate electricity causes air pollution..",
+                    "verdict": "Supported",
+                    "evidence": [
+                        {
+                            "quote": "The burning of large amounts of fossil fuels to produce the electricity we demand generates emissions that are harmful to health and are a source of climate change.",
+                            "location": "Lancet, page 2, final paragraph in  \"Introduction\" section.",
+                            "verdict": "Supported"
+                        }
+                    ]
+                },
+                {
+                    "subclaimID": "11.2",
+                    "text": ".. lignite and coal produce the most air pollution, followed by oil, and then by fossil gas and biomass.",
+                    "verdict": "Supported",
+                    "evidence": [
+                        {
+                            "quote": "Comparison of different forms of commercial power generation by use of the fuel cycle methods developed in European studies shows the health burdens to be greatest for power stations that most pollute outdoor air (those based on lignite, coal, and oil).",
+                            "location": "Lancet, opening paragraph in page 1",
+                            "verdict": "Supported"
+                        },
+                        {
+                            "quote": "The health burdens associated with oil are higher than those from gas but still much lower than for coal or lignite.",
+                            "location": "Lancet, page 3, in the \"Oil and Gas\" section.",
+                            "verdict": "Supported"
+                        },
+                        {
+                            "quote": "If Euroville were completely powered by coal, we’d expect at least 25 people to die prematurely every year from it.  Most of these people would die from air pollution.\n\nThis is how a coal-powered Euroville would compare with towns powered entirely by each energy source:\n\nCoal: 25 people would die prematurely every year;\nOil: 18 people would die prematurely every year;\nGas: 3 people would die prematurely every year;",
+                            "location": "OurWorldindata. Org webpage, Third paragraph in the \"Putting death rates from energy in perspective.\"",
+                            "verdict": "Supported"
+                        }
+                    ]
+                }
+            ],
+            "overallVerdict": "Supported",
+            "evidenceGap": [],
+            "reasoning": "The first quote directly establishes that burning fossil fuels for electricity generates harmful emissions.\n\n\nThe second quote identifies lignite, coal and oil as having the greatest health burdens among the power stations that most pollute outdoor air.\n\n\n\n\n\nThe third quote directly establishes that oil has higher health burdens than gas, but lower burdens than coal and lignite."
+        },
+        {
+            "claimID": "12",
+            "claim": "Some hazardous air pollutants are produced in plastic and rubber production, whereas chloroform can be produced during water chlorination, and arsenic is found in the mining industry.",
+            "category": "Not AI flagged",
+            "article": {
+                "title": "Air Pollution",
+                "url": "https://en.wikipedia.org/wiki/Air_pollution"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "Understanding Environmental Pollution",
+                    "sourceURL": "https://en.wikipedia.org/wiki/Air_pollution#CITEREFHill2020",
+                    "sourceCitation": "Hill MK (2020). Understanding environmental pollution (Fourth ed.). Cambridge, United Kingdom ; New York, NY: Cambridge University Press. ISBN 978-1-108-42308-3.",
+                    "accessStatus": "Accessible via search",
+                    "accessNotes": "The book was not directly accessible through the Wikipedia citation or initial ISBN search. It was eventually located through a manual search using the book title, author, and publication year. The relevant page (103) was accessed and reviewed through Google Books preview.",
+                    "accessedDate": "2026-11-06"
+                }
+            ],
+            "subclaims": [
+                {
+                    "subclaimID": "12.1",
+                    "text": "Some hazardous air pollutants are produced in plastic and rubber production..",
+                    "verdict": "Supported",
+                    "evidence": [
+                        {
+                            "quote": "Manufacturing plastic, rubber, adhesives, cushions",
+                            "location": "Page 103, Table 5.5, row 9",
+                            "verdict": "Supported"
+                        }
+                    ]
+                },
+                {
+                    "subclaimID": "12.2",
+                    "text": "… whereas chloroform can be produced during water chlorination…",
+                    "verdict": "Supported",
+                    "evidence": [
+                        {
+                            "quote": "Formed during water chlorination.",
+                            "location": "Page 103, Table 5.5, row 5 (Chloroform)",
+                            "verdict": "Supported"
+                        }
+                    ]
+                },
+                {
+                    "subclaimID": "12.3",
+                    "text": "..and arsenic is found in the mining industry…",
+                    "verdict": "Supported",
+                    "evidence": [
+                        {
+                            "quote": "2. Arsenic     2. Mining and smelting operations, glass making, petroluem refining, metal alloys",
+                            "location": "Page 103, Table 5.5, inorganic pollutants, row 2 (Arsenic)",
+                            "verdict": "Supported"
+                        }
+                    ]
+                }
+            ],
+            "overallVerdict": "Supported",
+            "evidenceGap": [],
+            "reasoning": "The table directly identifies plastic and rubber manufacturing as sources of a hazardous air pollutant.\n\n\nThe source explicitly identifies water chlorination as a source of chloroform.\n\n\nThe source directly identifies mining operations as a source of arsenic."
+        },
+        {
+            "claimID": "13",
+            "claim": "Indoor air pollution is also associated with cataract.",
+            "category": "Not AI flagged",
+            "article": {
+                "title": "Air Pollution",
+                "url": "https://en.wikipedia.org/wiki/Air_pollution"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "Air quality, energy and health: Health impacts",
+                    "sourceURL": "https://www.who.int/teams/environment-climate-change-and-health/air-quality-energy-and-health/health-impacts",
+                    "sourceCitation": "\"Air quality, energy and health\". World Health Organization. Archived from the original on 16 January 2025. Retrieved 16 January 2025.",
+                    "accessStatus": "Accessible",
+                    "accessNotes": "The full text article is available on the webpage..",
+                    "accessedDate": null,
+                    "evidence": [
+                        {
+                            "quote": "The specific disease outcomes most strongly linked with exposure to air pollution include stroke, ischaemic heart disease, chronic obstructive pulmonary disease, lung cancer, pneumonia, and cataract (household air pollution only).",
+                            "location": "Second sentence in the first paragraph of “What diseases are associated with exposure to air pollution?” section",
+                            "verdict": ""
+                        }
+                    ]
+                }
+            ],
+            "subclaims": [],
+            "overallVerdict": "Supported",
+            "evidenceGap": [],
+            "reasoning": "The source explicitly identifies cataract as a disease outcome associated with household air pollution. This supports the Wikipedia claim that indoor air pollution is associated with cataract."
+        },
+        {
+            "claimID": "14",
+            "claim": "Lung cancer was also more common among people exposed to NO₂ and black carbon.",
+            "category": "Not AI flagged",
+            "article": {
+                "title": "Air Pollution",
+                "url": "https://en.wikipedia.org/wiki/Air_pollution"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "Long-term exposure to ambient air pollution and risk of lung cancer - A comparative analysis of incidence and mortality in four administrative cohorts in the ELAPSE study",
+                    "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/39455045/",
+                    "sourceCitation": "\"Long-term exposure to air pollution on cardio-respiratory, and lung cancer mortality: a systematic review and meta-analysis\" .  Journal of Environmental Health Science & Engineering. 22 (1): 75–95. Bibcode:2024JEHSE..22...75K. doi:10.1007/s40201-024-00900-6. ISSN 2052-336X. PMC 11180069. PMID 38887768.",
+                    "accessStatus": "Accessible",
+                    "accessNotes": "The full text article is available on the webpage.",
+                    "accessedDate": null,
+                    "evidence": [
+                        {
+                            "quote": "Incident lung cancer was positively associated with PM₂.₅, NO₂ and BC, and negatively associated with O₃.",
+                            "location": "“Abstract” section.",
+                            "verdict": ""
+                        }
+                    ]
+                }
+            ],
+            "subclaims": [],
+            "overallVerdict": "Supported",
+            "evidenceGap": [],
+            "reasoning": "The study identifies the association between lung cancer and exposure to NO₂ and black carbon. This directly supports the claim that lung cancer was more common among people exposed to these pollutants."
+        },
+        {
+            "claimID": "15",
+            "claim": "According to the WHO, 99% of the world's population lives in areas with air pollution that exceeds WHO recommended levels.",
+            "category": "Not AI flagged",
+            "article": {
+                "title": "Air Pollution",
+                "url": "https://en.wikipedia.org/wiki/Air_pollution"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "Air pollution",
+                    "sourceURL": "https://www.who.int/health-topics/air-pollution",
+                    "sourceCitation": "\"Air pollution\" . World Health Organization. Archived from the original on 19 May 2022. Retrieved 2 May 2025.",
+                    "accessStatus": "Accessible",
+                    "accessNotes": "The full text article is available on the webpage.",
+                    "accessedDate": null,
+                    "evidence": [
+                        {
+                            "quote": "WHO data show that almost all of the global population (99%) breathe air that exceeds WHO guideline limits and contains high levels of pollutants, with low- and middle-income countries suffering from the highest exposures.",
+                            "location": "Third paragraph in the “Overview” section.",
+                            "verdict": ""
+                        }
+                    ]
+                }
+            ],
+            "subclaims": [],
+            "overallVerdict": "Supported",
+            "evidenceGap": [],
+            "reasoning": "The source confirms that 99% of the global population breathes air that exceeds the recommended pollution limits. This directly supports the claim."
+        },
+        {
+            "claimID": "16",
+            "claim": "Even at very low levels (under the World Health Organization recommended levels), fine particulates can continue to cause harm.",
+            "category": "Not AI flagged",
+            "article": {
+                "title": "Air Pollution",
+                "url": "https://en.wikipedia.org/wiki/Air_pollution"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "State of Global Air /2024",
+                    "sourceURL": "https://www.stateofglobalair.org/sites/default/files/documents/2024-06/soga-2024-report_0.pdf",
+                    "sourceCitation": "Health Effects Institute, Institute for Health Metrics and Evaluation, UNICEF (2024). State of Global Air Report 2024: A Special Report on Global Exposure to Air Pollution and its Health Impacts with a Focus on Children's Health (PDF). Health Effects Institute. pp. 7–8. ISSN 2578-6873. Archived (PDF) from the original on 3 July 2025. Retrieved 23 July 2025.",
+                    "accessStatus": "Accessible",
+                    "accessNotes": "The full text article is available through PDF.",
+                    "accessedDate": null,
+                    "evidence": [
+                        {
+                            "quote": "Recent studies, including several from the Health Effects Institute conducted in Europe, Canada, and the United States, have shown that even people living in areas with very low levels of PM₂.₅ (e.g., as low as 4 μg/m³ or even lower) can still experience adverse health effects.",
+                            "location": "“Exposure to Air Pollution” Page 7, last sentence of the “Fine Particle Air Pollution” section.",
+                            "verdict": ""
+                        }
+                    ]
+                }
+            ],
+            "subclaims": [],
+            "overallVerdict": "Supported",
+            "evidenceGap": [],
+            "reasoning": "The source explains that people can still experience harmful health effects from fine particle pollution, even when pollution levels are very low. This supports the claim that fine particles can cause harm below recommended levels. All numbers and formulars are also supported."
+        },
+        {
+            "claimID": "17",
+            "claim": "The World Health Organization estimates that 6.7 million people die from air pollution each year, 4.2 million due to outdoor air pollution.",
+            "category": "Not AI flagged",
+            "article": {
+                "title": "Air Pollution",
+                "url": "https://en.wikipedia.org/wiki/Air_pollution"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "Ambient (outdoor) air pollution",
+                    "sourceURL": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+                    "sourceCitation": "\"Ambient (outdoor) air pollution\". World Health Organization. 24 October 2024. Archived from the original on 8 October 2021. Retrieved 15 January 2025.",
+                    "accessStatus": "Accessible",
+                    "accessNotes": "The full text article is available on the webpage.",
+                    "accessedDate": null
+                }
+            ],
+            "subclaims": [
+                {
+                    "subclaimID": "15.1",
+                    "text": "The World Health Organization estimates that 6.7 million people die from air pollution each year...",
+                    "verdict": "Supported",
+                    "evidence": [
+                        {
+                            "quote": "The combined effects of ambient air pollution and household air pollution are associated with 6.7 million premature deaths annually.",
+                            "location": "Third and Fourth bullet points under the “Key facts” section.",
+                            "verdict": "Supported"
+                        }
+                    ]
+                },
+                {
+                    "subclaimID": "15.2",
+                    "text": "..4.2 million due to outdoor air pollution.",
+                    "verdict": "Partially supported",
+                    "evidence": [
+                        {
+                            "quote": "Ambient (outdoor) air pollution is estimated to have caused 4.2 million premature deaths worldwide in 2019.",
+                            "location": "Third and Fourth bullet points under the “Key facts” section.",
+                            "verdict": "Partially supported"
+                        }
+                    ]
+                }
+            ],
+            "overallVerdict": "Partially supported",
+            "evidenceGap": [
+                "Reference year for the 4.2 million figure omitted."
+            ],
+            "reasoning": "The source confirms that the combined effects of ambient and household air pollution are associated with 6.7 million premature deaths annually. It also estimates that ambient air pollution caused 4.2 million premature deaths worldwide in 2019. However, the Wikipedia claim does not specify that the 4.2 million figure refers to 2019, presenting it instead as a general annual estimate."
+        },
+        {
+            "claimID": "18",
+            "claim": "Stillbirths, miscarriages, and birth defects are all more likely when the mother is exposed to air pollution during pregnancy.",
+            "category": "Not AI flagged",
+            "article": {
+                "title": "Air Pollution",
+                "url": "https://en.wikipedia.org/wiki/Air_pollution"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "State of Global Air /2024",
+                    "sourceURL": "https://www.stateofglobalair.org/sites/default/files/documents/2024-06/soga-2024-report_0.pdf",
+                    "sourceCitation": "Health Effects Institute, Institute for Health Metrics and Evaluation, UNICEF (2024). State of Global Air Report 2024: A Special Report on Global Exposure to Air Pollution and its Health Impacts with a Focus on Children's Health (PDF). Health Effects Institute. pp. 21–23. ISSN 2578-6873. Archived (PDF) from the original on 3 July 2025. Retrieved 23 July 2025.",
+                    "accessStatus": "Accessible",
+                    "accessNotes": "The full-text article is available through PDF.",
+                    "accessedDate": null,
+                    "evidence": [
+                        {
+                            "quote": "Exposure to air pollution during pregnancy has also been linked to miscarriage, stillbirths, and congenital disorders and anomalies.",
+                            "location": "Page 22, in “Why Are Children Uniquely Susceptible to the Effects of Air Pollution?” section.",
+                            "verdict": ""
+                        }
+                    ]
+                }
+            ],
+            "subclaims": [],
+            "overallVerdict": "Supported",
+            "evidenceGap": [
+                "Not found"
+            ],
+            "reasoning": "The source links air pollution during pregnancy to miscarriage, stillbirths and congenital disorders. It also explains that exposure can increase the likelihood of low birth weight and premature birth. This explicitly supports the claim."
+        },
+        {
+            "claimID": "19",
+            "claim": "In 2009, the World Summit on Food Security stated that the \"four pillars of food security are availability, access, utilization, and stability.”",
+            "category": "Not AI flagged",
+            "article": {
+                "title": "",
+                "url": "https://en.wikipedia.org/wiki/Food_security"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "",
+                    "sourceURL": "https://www.fao.org/fileadmin/templates/wsfs/Summit/Docs/Final_Declaration/WSFS09_Declaration.pdf",
+                    "sourceCitation": "",
+                    "accessStatus": "",
+                    "accessNotes": "",
+                    "accessedDate": null,
+                    "evidence": [
+                        {
+                            "quote": "The four pillars of food security are availability, access, utilization and stability.",
+                            "location": "At the bottom of the page 1.",
+                            "verdict": ""
+                        }
+                    ]
+                }
+            ],
+            "subclaims": [],
+            "overallVerdict": "Supported",
+            "evidenceGap": [],
+            "reasoning": "The source explicitly identifies availability, access, utilization and stability as the four pillars of food security. This directly supports the claim attributed to the 2009 World Summit on Food Security."
+        },
+        {
+            "claimID": "20",
+            "claim": "Food security, as defined by the World Food Summit in 1996, is “when all people, at all times, have physical and economic access to sufficient, safe and nutritious food that meets their dietary needs and food preferences for an active and healthy life”.",
+            "category": "Not AI flagged",
+            "article": {
+                "title": "",
+                "url": "https://en.wikipedia.org/wiki/Food_security"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "",
+                    "sourceURL": "https://www.fao.org/4/y4671e/y4671e06.htm",
+                    "sourceCitation": "",
+                    "accessStatus": "",
+                    "accessNotes": "",
+                    "accessedDate": null,
+                    "evidence": [
+                        {
+                            "quote": "Food security, at the individual, household, national, regional and global levels [is achieved] when all people, at all times, have physical and economic access to sufficient, safe and nutritious food to meet their dietary needs and food preferences for an active and healthy life",
+                            "location": "“Official concepts of food security” under section 2.2 “Defining food security”.",
+                            "verdict": ""
+                        }
+                    ]
+                }
+            ],
+            "subclaims": [],
+            "overallVerdict": "Supported",
+            "evidenceGap": [],
+            "reasoning": "The source supports the claim by confirming the key elements of the 1996 definition of food security."
+        },
+        {
+            "claimID": "21",
+            "claim": "Traditional knowledge regarding the environment, such as taboos, proverbs and cosmological knowledge systems, may provide a conservation ethos for biodiversity preservation.",
+            "category": "Not AI flagged",
+            "article": {
+                "title": "",
+                "url": "https://en.wikipedia.org/wiki/Traditional_knowledge"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "",
+                    "sourceURL": "https://researchreinforcement.com/issue-nov-2021/november-2021-english/20.pdf",
+                    "sourceCitation": "",
+                    "accessStatus": "",
+                    "accessNotes": "",
+                    "accessedDate": null,
+                    "evidence": [
+                        {
+                            "quote": "Traditional knowledge regarding the environment such as taboos, proverbs and cosmological knowledge systems provide a lot of conservation ethos for biodiversity preservation.",
+                            "location": "Page 2, in the paragraph beginning “Traditional knowledge generates value…” under “Status of Conventional Knowledge” section",
+                            "verdict": ""
+                        }
+                    ]
+                }
+            ],
+            "subclaims": [],
+            "overallVerdict": "Supported",
+            "evidenceGap": [],
+            "reasoning": "The source explicitly links environmental traditional knowledge, including taboos, proverbs and cosmological knowledge systems, with biodiversity conservation. This supports the Wikipedia claim that these traditions can help encourage biodiversity preservation."
+        },
+        {
+            "claimID": "22",
+            "claim": "A report by the US Federal Reserve (March 2012) found that 21 percent of mobile phone owners had used mobile banking in the past 12 months.",
+            "category": "Not AI flagged",
+            "article": {
+                "title": "",
+                "url": "https://en.wikipedia.org/wiki/Mobile_banking"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "",
+                    "sourceURL": "https://www.federalreserve.gov/econresdata/mobile-device-report-201203.pdf",
+                    "sourceCitation": "",
+                    "accessStatus": "",
+                    "accessNotes": "",
+                    "accessedDate": null,
+                    "evidence": [
+                        {
+                            "quote": "21 percent of mobile phone owners have used mobile banking in the past 12 months.",
+                            "location": "“Executive Summary” in Page 9. First paragraph of  “The ubiquity of mobile phones is changing the way consumers access financial services” section.",
+                            "verdict": ""
+                        }
+                    ]
+                }
+            ],
+            "subclaims": [],
+            "overallVerdict": "Supported",
+            "evidenceGap": [],
+            "reasoning": "The source explicitly states that 21 percent of mobile phone owners had used mobile banking during the previous 12 months. This directly supports the numerical claim."
+        }
+    ]
+}
