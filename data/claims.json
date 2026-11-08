@@ -198,24 +198,39 @@
         },
         {
             "claimID": "5",
-            "claim": "In populations exhibiting sexual dimorphism, males tend to be slightly larger than females.",
+            "claim": "These attitudes stigmatize individuals with obesity, which further hampers public health interventions to reduce obesity rates and accelerates health disparities along SES lines.",
             "category": "AI flagged",
             "article": {
-                "title": "",
+                "title": "Diseases of Poverty",
                 "url": "https://en.wikipedia.org/w/index.php?oldid=1319297342"
             },
             "sourceEvaluation": [
                 {
-                    "sourceTitle": "",
-                    "sourceURL": "https://academic.oup.com/mspecies/article/doi/10.2307/3504319/2600639",
-                    "sourceCitation": "",
-                    "accessStatus": "",
-                    "accessNotes": "",
-                    "accessedDate": null,
+                    "sourceTitle": "Obesity Stigma: Important Considerations for Public Health",
+                    "sourceURL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2866597/",
+                    "sourceCitation": "Puhl, Rebecca M.; Heuer, Chelsea A. (June 2010). \"Obesity Stigma: Important Considerations for Public Health\". American Journal of Public Health. 100 (6): 1019–1028. doi:10.2105/AJPH.2009.159491. ISSN 0090-0036. PMC 2866597. PMID 20075322.",
+                    "accessStatus": "Accessible",
+                    "accessNotes": "The full text article is available on the webpage..",
+                    "accessedDate": "2026-10-29",
                     "evidence": [
                         {
-                            "quote": "Intrapopulation sexual dimorphism in size, when present (males larger than females), is slight (Brunson, 1973; Millar, 1971; Smith, 1981).",
-                            "location": "On the source webpage, click the PDF link. The evidence is located in “General Characters” on Page 2.",
+                            "quote": "These common assumptions provide the foundation for weight stigma, a prejudice that is often dismissed as acceptable and necessary.",
+                            "location": "Section “Countering Assumptions That Perpetuate Weight Stigma”, opening paragraph.",
+                            "verdict": ""
+                        },
+                        {
+                            "quote": "Weight stigma threatens the psychological and physical health of obese individuals, impedes the implementation of effective efforts to prevent obesity, and exacerbates health disparities.\n\n“These social consequences may intensify the health disparities already faced by obese Americans.",
+                            "location": "Section “Critical Implications for Public Health”, opening paragraph.",
+                            "verdict": ""
+                        },
+                        {
+                            "quote": "Consequently, the stigmatization of obese individuals is inextricably linked to social inequalities.",
+                            "location": "Section “Critical Implications for Public Health”,",
+                            "verdict": ""
+                        },
+                        {
+                            "quote": "",
+                            "location": "Section “Critical Implications for Public Health”,",
                             "verdict": ""
                         }
                     ]
@@ -223,29 +238,41 @@
             ],
             "subclaims": [],
             "overallVerdict": "Supported",
-            "evidenceGap": [],
-            "reasoning": "The source directly confirms that males are slightly larger when sexual dimorphism occurs, therefore accounting for every detail in the claim."
+            "evidenceGap": [
+                "Direct evidence linking weight stigma to worsening SES-based health disparities"
+            ],
+            "reasoning": "The source establishes that weight stigma contributes to the stigmatisation of people with obesity, undermines effective obesity-prevention efforts, and can intensify existing health disparities. It also links obesity stigma to social inequalities, but does not explicitly establish that it accelerates health disparities specifically along socioeconomic status (SES) lines."
         },
         {
             "claimID": "6",
             "claim": "Its notable features are suborbicular ears, densely furred feet with black pads at the toes, and a dense undercoat that provides insulation during winter months.",
             "category": "AI flagged",
             "article": {
-                "title": "",
-                "url": "https://en.wikipedia.org/w/index.php?oldid=1319297343"
+                "title": "Diseases of Poverty",
+                "url": "https://en.wikipedia.org/w/index.php?oldid=1319297342"
             },
             "sourceEvaluation": [
                 {
-                    "sourceTitle": "",
-                    "sourceURL": "https://natureworks.nhpbs.org/animals/american pika/",
-                    "sourceCitation": "",
-                    "accessStatus": "",
-                    "accessNotes": "",
+                    "sourceTitle": "Over a billion people living with mental health conditions – services require urgent scale-up",
+                    "sourceURL": "https://www.who.int/news/item/02-09-2025-over-a-billion-people-living-with-mental-health-conditions-services-require-urgent-scale-up",
+                    "sourceCitation": "\"Over a billion people living with mental health conditions – services require urgent scale-up\". www.who.int. Retrieved November 21, 2025.",
+                    "accessStatus": "Accessible",
+                    "accessNotes": "The full text article is available on the webpage..",
                     "accessedDate": null,
                     "evidence": [
                         {
-                            "quote": "The American pika is a member of the Lagomorpha or rabbit family. It has a small, round body; peppery brown fur; large, round ears; and no visible tail.",
-                            "location": "Under “Characteristics” heading, first paragraph.",
+                            "quote": "These findings underscore the urgent need for sustained investment, stronger prioritization, and multi-sectoral collaboration to expand access to mental health care, reduce stigma, and tackle the root causes of mental health conditions.",
+                            "location": "Section “Key data from World mental health today”, final paragraph",
+                            "verdict": ""
+                        },
+                        {
+                            "quote": "Inpatient care continues to rely heavily on psychiatric hospitals, with nearly half of admissions occurring involuntarily and over 20% lasting longer than a year.",
+                            "location": "Section “Key findings from the 2024 Mental Health Atlas”, paragraph on mental health service reform.",
+                            "verdict": ""
+                        },
+                        {
+                            "quote": "Disparities between countries are stark; while high-income countries spend up to US$ 65 per person on mental health, low-income countries spend as little as US$ 0.04.",
+                            "location": "Section “Key findings from the 2024 Mental Health Atlas”, paragraph on mental health investment.",
                             "verdict": ""
                         }
                     ]
@@ -253,8 +280,10 @@
             ],
             "subclaims": [],
             "overallVerdict": "Partially supported",
-            "evidenceGap": [],
-            "reasoning": "The source confirms the claim’s rounded ears but does not describe its furred feet, black toe pads, or insulating undercoat."
+            "evidenceGap": [
+                "Direct evidence linking stigma to delayed treatment and increased isolation in low-resource settings."
+            ],
+            "reasoning": "The  source identifies that stigma affects mental health care and highlights major treatment and resource gaps in low-income countries. However, it does not directly demonstrate that societal biases cause treatment delays or increase social isolation in these settings."
         },
         {
             "claimID": "7",
@@ -587,6 +616,86 @@
         },
         {
             "claimID": "13",
+            "claim": "Diesel trains, ships, and planes also cause air pollution.",
+            "category": "Not AI flagged",
+            "article": {
+                "title": "Air Pollution",
+                "url": "https://en.wikipedia.org/wiki/Air_pollution"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "Overview of Air Pollution from Transportation",
+                    "sourceURL": "https://www.epa.gov/transportation-air-pollution-and-climate-change/overview-air-pollution-transportation",
+                    "sourceCitation": "\"Overview of Air Pollution from Transportation\". US Environmental Protection Agency. 15 December 2021. Archived from the original on 26 July 2025. Retrieved 16 June 2022.",
+                    "accessStatus": "Accessible",
+                    "accessNotes": "The full text article is available on the webpage..",
+                    "accessedDate": "2026-11-06",
+                    "evidence": [
+                        {
+                            "quote": "EPA emissions standards for vehicles and engines cover everything from weed whackers to locomotives.",
+                            "location": "First sentence in the \"What Vehicles, Engines and Pollutants are Regulated by EPA?\" section",
+                            "verdict": ""
+                        },
+                        {
+                            "quote": "Sources of Air Pollution Road: Non Road: Marine Engines",
+                            "location": "Picture illustration \"What Vehicles, Engines and Pollutants are Regulated by EPA?\" sectio",
+                            "verdict": ""
+                        },
+                        {
+                            "quote": "Mobile sources of air pollution emit ozone, particle pollution, and air toxics.",
+                            "location": "First senetnce in the \"Health and Environmental Impacts of Air Pollution\" section",
+                            "verdict": ""
+                        }
+                    ]
+                }
+            ],
+            "subclaims": [],
+            "overallVerdict": "Supported",
+            "evidenceGap": [],
+            "reasoning": "The  source identifies locomotives as vehicles covered by its emissions standards, lists marine engines as sources of air pollution, and confirms that mobile sources emit pollutants such as ozone, particulate matter and air toxics. Together, this evidence supports the claim that diesel trains, ships and planes contribute to air pollution."
+        },
+        {
+            "claimID": "14",
+            "claim": "For instance, methane is emitted by the digestion of food by cattle, causing ground-level ozone.",
+            "category": "Not AI flagged",
+            "article": {
+                "title": "Air Pollution",
+                "url": "https://en.wikipedia.org/wiki/Air_pollution"
+            },
+            "sourceEvaluation": [
+                {
+                    "sourceTitle": "Methane, climate change and air quality in Europe: exploring the connections",
+                    "sourceURL": "https://www.eea.europa.eu/en/analysis/publications/methane-climate-change-and-air-quality-in-europe-exploring-the-connections",
+                    "sourceCitation": "\"Methane, climate change and air quality in Europe: exploring the connections\". European Environment Agency. 5 February 2025. Archived from the original on 23 July 2025. Retrieved 7 March 2025.",
+                    "accessStatus": "Accessible",
+                    "accessNotes": "The full text article is available on the webpage..",
+                    "accessedDate": "2026-11-06",
+                    "evidence": [
+                        {
+                            "quote": "The largest source of methane from agriculture is enteric fermentation, i.e. the digestion process in ruminants (e.g. cows and sheep). Enteric fermentation from cattle alone accounted for 67% of the sector’s methane emissions in the EU in 2020.",
+                            "location": "Section “Emissions from livestock management”, paragraph 1.",
+                            "verdict": ""
+                        },
+                        {
+                            "quote": "Methane is a potent greenhouse gas and a major contributor to ground-level ozone.",
+                            "location": "Key messages, first bullet.",
+                            "verdict": ""
+                        },
+                        {
+                            "quote": "Methane (CH₄) is a ground-level ozone (O₃) precursor and thus has a negative impact on air quality.",
+                            "location": "Section “Methane as an ozone precursor and its impacts”, opening paragraph.",
+                            "verdict": ""
+                        }
+                    ]
+                }
+            ],
+            "subclaims": [],
+            "overallVerdict": "Supported",
+            "evidenceGap": [],
+            "reasoning": "The source identifies cattle digestion as a major source of methane emissions and confirms that methane contributes to ground-level ozone formation as an ozone precursor."
+        },
+        {
+            "claimID": "15",
             "claim": "Indoor air pollution is also associated with cataract.",
             "category": "Not AI flagged",
             "article": {
@@ -600,7 +709,7 @@
                     "sourceCitation": "\"Air quality, energy and health\". World Health Organization. Archived from the original on 16 January 2025. Retrieved 16 January 2025.",
                     "accessStatus": "Accessible",
                     "accessNotes": "The full text article is available on the webpage..",
-                    "accessedDate": null,
+                    "accessedDate": "2026-10-29",
                     "evidence": [
                         {
                             "quote": "The specific disease outcomes most strongly linked with exposure to air pollution include stroke, ischaemic heart disease, chronic obstructive pulmonary disease, lung cancer, pneumonia, and cataract (household air pollution only).",
@@ -616,7 +725,7 @@
             "reasoning": "The source explicitly identifies cataract as a disease outcome associated with household air pollution. This supports the Wikipedia claim that indoor air pollution is associated with cataract."
         },
         {
-            "claimID": "14",
+            "claimID": "16",
             "claim": "Lung cancer was also more common among people exposed to NO₂ and black carbon.",
             "category": "Not AI flagged",
             "article": {
@@ -630,7 +739,7 @@
                     "sourceCitation": "\"Long-term exposure to air pollution on cardio-respiratory, and lung cancer mortality: a systematic review and meta-analysis\" .  Journal of Environmental Health Science & Engineering. 22 (1): 75–95. Bibcode:2024JEHSE..22...75K. doi:10.1007/s40201-024-00900-6. ISSN 2052-336X. PMC 11180069. PMID 38887768.",
                     "accessStatus": "Accessible",
                     "accessNotes": "The full text article is available on the webpage.",
-                    "accessedDate": null,
+                    "accessedDate": "2026-10-29",
                     "evidence": [
                         {
                             "quote": "Incident lung cancer was positively associated with PM₂.₅, NO₂ and BC, and negatively associated with O₃.",
@@ -646,7 +755,7 @@
             "reasoning": "The study identifies the association between lung cancer and exposure to NO₂ and black carbon. This directly supports the claim that lung cancer was more common among people exposed to these pollutants."
         },
         {
-            "claimID": "15",
+            "claimID": "17",
             "claim": "According to the WHO, 99% of the world's population lives in areas with air pollution that exceeds WHO recommended levels.",
             "category": "Not AI flagged",
             "article": {
@@ -660,7 +769,7 @@
                     "sourceCitation": "\"Air pollution\" . World Health Organization. Archived from the original on 19 May 2022. Retrieved 2 May 2025.",
                     "accessStatus": "Accessible",
                     "accessNotes": "The full text article is available on the webpage.",
-                    "accessedDate": null,
+                    "accessedDate": "2026-10-29",
                     "evidence": [
                         {
                             "quote": "WHO data show that almost all of the global population (99%) breathe air that exceeds WHO guideline limits and contains high levels of pollutants, with low- and middle-income countries suffering from the highest exposures.",
@@ -676,7 +785,7 @@
             "reasoning": "The source confirms that 99% of the global population breathes air that exceeds the recommended pollution limits. This directly supports the claim."
         },
         {
-            "claimID": "16",
+            "claimID": "18",
             "claim": "Even at very low levels (under the World Health Organization recommended levels), fine particulates can continue to cause harm.",
             "category": "Not AI flagged",
             "article": {
@@ -690,7 +799,7 @@
                     "sourceCitation": "Health Effects Institute, Institute for Health Metrics and Evaluation, UNICEF (2024). State of Global Air Report 2024: A Special Report on Global Exposure to Air Pollution and its Health Impacts with a Focus on Children's Health (PDF). Health Effects Institute. pp. 7–8. ISSN 2578-6873. Archived (PDF) from the original on 3 July 2025. Retrieved 23 July 2025.",
                     "accessStatus": "Accessible",
                     "accessNotes": "The full text article is available through PDF.",
-                    "accessedDate": null,
+                    "accessedDate": "2026-10-29",
                     "evidence": [
                         {
                             "quote": "Recent studies, including several from the Health Effects Institute conducted in Europe, Canada, and the United States, have shown that even people living in areas with very low levels of PM₂.₅ (e.g., as low as 4 μg/m³ or even lower) can still experience adverse health effects.",
@@ -706,7 +815,7 @@
             "reasoning": "The source explains that people can still experience harmful health effects from fine particle pollution, even when pollution levels are very low. This supports the claim that fine particles can cause harm below recommended levels. All numbers and formulars are also supported."
         },
         {
-            "claimID": "17",
+            "claimID": "19",
             "claim": "The World Health Organization estimates that 6.7 million people die from air pollution each year, 4.2 million due to outdoor air pollution.",
             "category": "Not AI flagged",
             "article": {
@@ -720,7 +829,7 @@
                     "sourceCitation": "\"Ambient (outdoor) air pollution\". World Health Organization. 24 October 2024. Archived from the original on 8 October 2021. Retrieved 15 January 2025.",
                     "accessStatus": "Accessible",
                     "accessNotes": "The full text article is available on the webpage.",
-                    "accessedDate": null
+                    "accessedDate": "2026-10-29"
                 }
             ],
             "subclaims": [
@@ -756,7 +865,7 @@
             "reasoning": "The source confirms that the combined effects of ambient and household air pollution are associated with 6.7 million premature deaths annually. It also estimates that ambient air pollution caused 4.2 million premature deaths worldwide in 2019. However, the Wikipedia claim does not specify that the 4.2 million figure refers to 2019, presenting it instead as a general annual estimate."
         },
         {
-            "claimID": "18",
+            "claimID": "20",
             "claim": "Stillbirths, miscarriages, and birth defects are all more likely when the mother is exposed to air pollution during pregnancy.",
             "category": "Not AI flagged",
             "article": {
@@ -770,7 +879,7 @@
                     "sourceCitation": "Health Effects Institute, Institute for Health Metrics and Evaluation, UNICEF (2024). State of Global Air Report 2024: A Special Report on Global Exposure to Air Pollution and its Health Impacts with a Focus on Children's Health (PDF). Health Effects Institute. pp. 21–23. ISSN 2578-6873. Archived (PDF) from the original on 3 July 2025. Retrieved 23 July 2025.",
                     "accessStatus": "Accessible",
                     "accessNotes": "The full-text article is available through PDF.",
-                    "accessedDate": null,
+                    "accessedDate": "2026-10-29",
                     "evidence": [
                         {
                             "quote": "Exposure to air pollution during pregnancy has also been linked to miscarriage, stillbirths, and congenital disorders and anomalies.",
@@ -782,130 +891,8 @@
             ],
             "subclaims": [],
             "overallVerdict": "Supported",
-            "evidenceGap": [
-                "Not found"
-            ],
+            "evidenceGap": [],
             "reasoning": "The source links air pollution during pregnancy to miscarriage, stillbirths and congenital disorders. It also explains that exposure can increase the likelihood of low birth weight and premature birth. This explicitly supports the claim."
-        },
-        {
-            "claimID": "19",
-            "claim": "In 2009, the World Summit on Food Security stated that the \"four pillars of food security are availability, access, utilization, and stability.”",
-            "category": "Not AI flagged",
-            "article": {
-                "title": "",
-                "url": "https://en.wikipedia.org/wiki/Food_security"
-            },
-            "sourceEvaluation": [
-                {
-                    "sourceTitle": "",
-                    "sourceURL": "https://www.fao.org/fileadmin/templates/wsfs/Summit/Docs/Final_Declaration/WSFS09_Declaration.pdf",
-                    "sourceCitation": "",
-                    "accessStatus": "",
-                    "accessNotes": "",
-                    "accessedDate": null,
-                    "evidence": [
-                        {
-                            "quote": "The four pillars of food security are availability, access, utilization and stability.",
-                            "location": "At the bottom of the page 1.",
-                            "verdict": ""
-                        }
-                    ]
-                }
-            ],
-            "subclaims": [],
-            "overallVerdict": "Supported",
-            "evidenceGap": [],
-            "reasoning": "The source explicitly identifies availability, access, utilization and stability as the four pillars of food security. This directly supports the claim attributed to the 2009 World Summit on Food Security."
-        },
-        {
-            "claimID": "20",
-            "claim": "Food security, as defined by the World Food Summit in 1996, is “when all people, at all times, have physical and economic access to sufficient, safe and nutritious food that meets their dietary needs and food preferences for an active and healthy life”.",
-            "category": "Not AI flagged",
-            "article": {
-                "title": "",
-                "url": "https://en.wikipedia.org/wiki/Food_security"
-            },
-            "sourceEvaluation": [
-                {
-                    "sourceTitle": "",
-                    "sourceURL": "https://www.fao.org/4/y4671e/y4671e06.htm",
-                    "sourceCitation": "",
-                    "accessStatus": "",
-                    "accessNotes": "",
-                    "accessedDate": null,
-                    "evidence": [
-                        {
-                            "quote": "Food security, at the individual, household, national, regional and global levels [is achieved] when all people, at all times, have physical and economic access to sufficient, safe and nutritious food to meet their dietary needs and food preferences for an active and healthy life",
-                            "location": "“Official concepts of food security” under section 2.2 “Defining food security”.",
-                            "verdict": ""
-                        }
-                    ]
-                }
-            ],
-            "subclaims": [],
-            "overallVerdict": "Supported",
-            "evidenceGap": [],
-            "reasoning": "The source supports the claim by confirming the key elements of the 1996 definition of food security."
-        },
-        {
-            "claimID": "21",
-            "claim": "Traditional knowledge regarding the environment, such as taboos, proverbs and cosmological knowledge systems, may provide a conservation ethos for biodiversity preservation.",
-            "category": "Not AI flagged",
-            "article": {
-                "title": "",
-                "url": "https://en.wikipedia.org/wiki/Traditional_knowledge"
-            },
-            "sourceEvaluation": [
-                {
-                    "sourceTitle": "",
-                    "sourceURL": "https://researchreinforcement.com/issue-nov-2021/november-2021-english/20.pdf",
-                    "sourceCitation": "",
-                    "accessStatus": "",
-                    "accessNotes": "",
-                    "accessedDate": null,
-                    "evidence": [
-                        {
-                            "quote": "Traditional knowledge regarding the environment such as taboos, proverbs and cosmological knowledge systems provide a lot of conservation ethos for biodiversity preservation.",
-                            "location": "Page 2, in the paragraph beginning “Traditional knowledge generates value…” under “Status of Conventional Knowledge” section",
-                            "verdict": ""
-                        }
-                    ]
-                }
-            ],
-            "subclaims": [],
-            "overallVerdict": "Supported",
-            "evidenceGap": [],
-            "reasoning": "The source explicitly links environmental traditional knowledge, including taboos, proverbs and cosmological knowledge systems, with biodiversity conservation. This supports the Wikipedia claim that these traditions can help encourage biodiversity preservation."
-        },
-        {
-            "claimID": "22",
-            "claim": "A report by the US Federal Reserve (March 2012) found that 21 percent of mobile phone owners had used mobile banking in the past 12 months.",
-            "category": "Not AI flagged",
-            "article": {
-                "title": "",
-                "url": "https://en.wikipedia.org/wiki/Mobile_banking"
-            },
-            "sourceEvaluation": [
-                {
-                    "sourceTitle": "",
-                    "sourceURL": "https://www.federalreserve.gov/econresdata/mobile-device-report-201203.pdf",
-                    "sourceCitation": "",
-                    "accessStatus": "",
-                    "accessNotes": "",
-                    "accessedDate": null,
-                    "evidence": [
-                        {
-                            "quote": "21 percent of mobile phone owners have used mobile banking in the past 12 months.",
-                            "location": "“Executive Summary” in Page 9. First paragraph of  “The ubiquity of mobile phones is changing the way consumers access financial services” section.",
-                            "verdict": ""
-                        }
-                    ]
-                }
-            ],
-            "subclaims": [],
-            "overallVerdict": "Supported",
-            "evidenceGap": [],
-            "reasoning": "The source explicitly states that 21 percent of mobile phone owners had used mobile banking during the previous 12 months. This directly supports the numerical claim."
         }
     ]
 }
