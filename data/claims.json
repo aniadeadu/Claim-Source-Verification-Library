@@ -258,7 +258,7 @@
                     "sourceCitation": "\"Over a billion people living with mental health conditions – services require urgent scale-up\". www.who.int. Retrieved November 21, 2025.",
                     "accessStatus": "Accessible",
                     "accessNotes": "The full text article is available on the webpage..",
-                    "accessedDate": null,
+                    "accessedDate": "2026-10-29",
                     "evidence": [
                         {
                             "quote": "These findings underscore the urgent need for sustained investment, stronger prioritization, and multi-sectoral collaboration to expand access to mental health care, reduce stigma, and tackle the root causes of mental health conditions.",
@@ -441,7 +441,7 @@
                     "sourceCitation": "\"Poverty and Health - The Family Medicine Perspective (Position Paper)\". www.aafp.org. Retrieved April 7, 2025.",
                     "accessStatus": "Accessible",
                     "accessNotes": "The full text article is available through PDF.",
-                    "accessedDate": null
+                    "accessedDate": "2026-10-29"
                 }
             ],
             "subclaims": [
@@ -834,7 +834,7 @@
             ],
             "subclaims": [
                 {
-                    "subclaimID": "15.1",
+                    "subclaimID": "19.1",
                     "text": "The World Health Organization estimates that 6.7 million people die from air pollution each year...",
                     "verdict": "Supported",
                     "evidence": [
@@ -846,7 +846,7 @@
                     ]
                 },
                 {
-                    "subclaimID": "15.2",
+                    "subclaimID": "19.2",
                     "text": "..4.2 million due to outdoor air pollution.",
                     "verdict": "Partially supported",
                     "evidence": [
